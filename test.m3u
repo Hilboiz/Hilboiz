@@ -1,0 +1,330 @@
+#EXTM3U
+#EXTINF:-1,RCTI +
+https://rcti-linier.rctiplus.id/live/eds/RCTI_2021/live_fta/index.m3u8
+#EXTINF:-1,MNCTV
+https://rcti-linier.rctiplus.id/live/eds/MNCTV_2021/live_fta/index.m3u8
+#EXTINF:-1,GTV
+https://rcti-linier.rctiplus.id/live/eds/GTV2021/live_fta/index.m3u8
+#EXTINF:-1,O CHANNEL
+https://iptv.mwafa.net/vidio/206/index.m3u8?token=1999
+#EXTINF:-1,TRANS TV
+http://rr2.dens.tv/s/s05/index.m3u8
+#EXTINF:-1,TRANS7
+http://rr.dens.tv/h/h11/index.m3u8
+#EXTINF:-1,INEWS
+https://rcti-linier.rctiplus.id/live/eds/INEWS_2021/live_fta/INEWS_2021-avc1_800000=8-mp4a_96000=2.m3u8
+#EXTINF:-1,INDOSIAR
+http://210.210.155.35:80/qwr9ew/s/s04/01.m3u8
+#EXTINF:-1,ANTV
+http://210.210.155.35:80/qwr9ew/s/s07/01.m3u8
+#EXTINF:-1,SCTV
+http://210.210.155.35:80/qwr9ew/s/s03/01.m3u8
+#EXTINF:-1,NET
+http://210.210.155.35:80/qwr9ew/s/s08/01.m3u8
+#EXTINF:-1,RTV
+http://210.210.155.35:80/qwr9ew/s/s12/01.m3u8
+#EXTINF:-1 ,TVONE
+http://210.210.155.35:80/qwr9ew/s/s105/01.m3u8
+#EXTINF:-1,KOMPAS TV
+http://210.210.155.35:80/qwr9ew/s/s104/01.m3u8
+#EXTINF:-1,ELSHINTA
+http://210.210.155.35:80/qwr9ew/s/s10/01.m3u8
+#EXTINF:-1,RRI NET
+http://36.89.47.217:11935/rrinet/live/chunklist_kamiselaluada.m3u8
+#EXTINF:-1,BERITA SATU
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklist_b1128000.m3u8
+#EXTINF:-1,MAKKAH TV
+http://210.210.155.35:80/qwr9ew/s/s28/01.m3u8
+#EXTINF:-1,NABAWI TV
+http://210.210.155.35:80/qwr9ew/s/s27/01.m3u8
+#EXTINF:-1,RODJA TV
+http://210.210.155.35:80/qwr9ew/s/s14/01.m3u8
+#EXTINF:-1,IKIM
+http://edge.vediostream.com/abr/tvikim/live/tvikim_480p/playlist.m3u8
+#EXTINF:-1,K+
+http://210.210.155.35:80/uq2663/h/h08/01.m3u8
+#EXTINF:-1,ONE
+http://210.210.155.35:80/uq2663/h/h143/01.m3u8
+#EXTINF:-1,GEM
+http://210.210.155.35:80/uq2663/h/h19/01.m3u8
+#EXTINF:-1,TVN
+http://210.210.155.35:80/dr9445/h/h20/01.m3u8
+#EXTINF:-1,TVN MOVIES
+http://210.210.155.35:80/dr9445/h/h21/01.m3u8
+#EXTINF:-1,CELESTIAL MOVIES
+http://rr1.dens.tv/h/h14/02.m3u8?chname=Celestial_Movies
+#EXTINF:-1,CCM
+http://rr2.dens.tv/s/s31/index.m3u8
+#EXTINF:-1,CINEMA WORLD
+http://210.210.155.35:80/dr9445/h/h04/01.m3u8
+#EXTINF:-1,CINEMA EUROPE
+http://210.210.155.35:80/uq2663/h/h18/01.m3u8
+#EXTINF:-1,AXN
+http://210.210.155.35:80/dr9445/h/h141/01.m3u8
+#EXTINF:-1,KIX
+http://210.210.155.35:80/dr9445/h/h07/01.m3u8
+#EXTINF:-1,HITS
+http://210.210.155.35:80/dr9445/h/h37/02.m3u8
+#EXTINF:-1,ROCK ENTERTAINMENT
+http://210.210.155.35:80/dr9445/h/h16/01.m3u8
+#EXTINF:-1,ROCK EXTREME
+http://210.210.155.35:80/dr9445/h/h15/01.m3u8
+#EXTINF:-1,ZEE BIOSKOP
+http://210.210.155.35:80/qwr9ew/s/s32/01.m3u8
+#EXTINF:-1,THRILL
+http://210.210.155.35:80/qwr9ew/s/s34/01.m3u8
+#EXTINF:-1,ANIMAX
+http://210.210.155.35:80/dr9445/h/h144/01.m3u8
+#EXTINF:-1,ANIPLUS
+http://210.210.155.35:80/dr9445/h/h02/01.m3u8
+#EXTINF:-1,CN NETWORK
+https://cubmu.nomaden.tv:8279/CARTOON/playlist.m3u8
+#EXTINF:-1,NICKELODEON
+https://cubmu.nomaden.tv:8279/NICKELODEON/playlist.m3u8
+#EXTINF:-1,DUNIA ANAK
+https://cubmu.superzap.xyz:8279/duniaanak/playlist.m3u8
+#EXTINF:-1,DUNIA LAIN
+https://cubmu.superzap.xyz:8279/dunialain/playlist.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL
+http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=disco&gumisasakTV=default&sync=0
+#EXTINF:-1,MyTV
+http://rr3.dens.tv/s/s88/index2.m3u8
+#EXTINF:-1,RUANG TERAMPIL
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(2b945e2e-4297-4be9-9a45-aa023c890e13)/index.m3u8
+#EXTINF:-1,USEE PHOTO
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(f1b6e507-d639-4d66-858a-e457d55ddbb2)/index.m3u8
+#EXTINF:-1,USEE PRIME
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(18564c27-ff44-4d62-9fab-dcb417fcb93f)/index.m3u8
+#EXTINF:-1,NUSANTARA TV
+https://v6.siar.us/nusantaratv/live/playlist.m3u8
+#EXTINF:-1,EGG
+http://210.210.155.35:80/uq2663/h/h22/01.m3u8
+#EXTINF:-1 ,MY KIDZ
+http://playlist.urfan.web.id/uq2663/h/h98/index.m3u8
+#EXTINF:-1,LIFESTYLE
+http://rr1.dens.tv/h/h28/index.m3u8
+#EXTINF:-1,PARAMOUNT
+https://cubmu.superzap.xyz:8279/paramount/playlist.m3u8
+#EXTINF:-1,HITS MOVIES
+https://cubmu.superzap.xyz:8279/hitmovies/playlist.m3u8
+#EXTINF:-1,TECH STROM
+https://cubmu.superzap.xyz:8279/techstorm/playlist.m3u8
+#EXTINF:-1,INDONESIANA
+https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/2.m3u8
+#EXTINF:-1,FLIK
+https://lnk.ec/FLIK?shareext.ts
+#EXTINF:-1,IMC
+http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=imc&gumisasakTV=default&sync=0
+#EXTINF:-1,MY CINEMA ASIA
+http://210.210.155.35/session/5f42685a-74e8-11ec-8b65-b82a72d63267/uq2663/h/h193/index.m3u8
+#EXTINF:-1,MY CINEMA
+http://playlist.urfan.web.id/uq2663/h/h90/S4/mnf.m3u8
+#EXTINF:-1,MY FAMILY
+http://210.210.155.35/session/3074917a-7514-11ec-900b-c81f66f89318/uq2663/h/h194/index.m3u8
+http://rr.dens.tv/h/h194/index.m3u8
+#EXTINF:-1,WAKU WAKU JAPAN
+https://lnk.ec/waku2?shareext.ts
+#EXTINF:-1,DENS PLAY
+http://210.210.155.35/session/53fc4c06-7595-11ec-9ef9-b82a72d63267/x6bnqe/s/s101/live.m3u8
+#EXTINF:-1,I-KONSER
+http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=ikonser&gumisasakTV=default&sync=0
+#EXTINF:-1,IN WILD
+https://inwild-samsungau.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,LOVE NATURE
+http://bamus-eng-roku.amagi.tv/playlist404p.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,SMITHSONIAN CHANNEL
+https://smithsonianaus-samsungau.amagi.tv/playlist480p.m3u8?checkedby:iptvcat.com
+#EXTINF:-1,MOTOR VISION TV
+http://210.210.155.35:80/uq2663/h/h09/01.m3u8
+#EXTINF:-1,GOLF
+http://210.210.155.35:80/dr9445/h/h10/01.m3u8
+#EXTINF:-1,TVRI
+http://rr2.dens.tv/s/s11/index.m3u8
+#EXTINF:-1,TVRI SPORT HD
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+#EXTINF:-1,USEE SPORT
+http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=useesport&gumisasakTV=default&sync=0
+#EXTINF:-1,USEE SPORT 2
+http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=useesport2&gumisasakTV=default&sync=0
+#EXTINF:-1,SPOTV
+http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=spotv&gumisasakTV=default&sync=0
+#EXTINF:-1,SPOTV2
+http://gumisasak-vision.online/Dyos-MPD/chunklist.m3u8?id=spotv2&gumisasakTV=default&sync=0
+#EXTINF:-1,STADIUM LIVE
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
+#EXTINF:-1,LOOKSPORT +
+https://stream1.1616.ro:1945/lookplus/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=&checkedby:iptvcat.com
+#EXTINF:-1,LOOKSPORT 1
+https://stream1.1616.ro:1945/look/livestream/playlist.m3u8?wowzatokenhash=NqSD4qaHc94SbTW05NBB-lXC78ZiAOIbnbUBOHj1DAM=&checkedby:iptvcat.com
+#EXTINF:-1,LOOKSPORT 2
+https://stream1.1616.ro:1945/looksport2/livestream/chunklist_w1538106197.m3u8
+#EXTINF:-1,LOOKSPORT 3
+https://stream1.1616.ro:1945/looksport3/livestream/chunklist_w64015557.m3u8
+#EXTINF:-1,BLOOMBERG
+http://210.210.155.35:80/dr9445/h/h03/01.m3u8
+#EXTINF:-1 ,CCTV4
+http://playlist.urfan.web.id/qwr9ew/s/s19/01.m3u8
+#EXTINF:-1 ,XING XONG
+http://rr3.dens.tv/s/s94/index2.m3u8
+#EXTINF:-1 ,SHANGHAI DRAGON
+http://rr3.dens.tv/s/s29/index2.m3u8
+#EXTINF:-1 ,PHOENIX NEWS
+http://rr.dens.tv/h/h157/index2.m3u8
+#EXTINF:-1 ,PHOENIX TAIWAN
+http://rr2.dens.tv/s/s21/index.m3u8
+#EXTINF:-1,CNA ASIA
+http://210.210.155.35:80/uq2663/h/h29/01.m3u8
+#EXTINF:-1 ,Bflix MOVIES
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
+#EXTINF:-1,NHK WORLD JAPAN
+http://210.210.155.35:80/uq2663/h/h23/01.m3u8
+#EXTINF:-1,BALITV
+http://rr.dens.tv/h/h159/index2.m3u8
+#EXTINF:-1,TBN ASIA
+http://rr2.dens.tv/s/s39/index.m3u8
+#EXTINF:-1,TVE 
+http://rr.dens.tv/h/h158/index2.m3u8
+#EXTINF:-1,TVBS CHN
+http://Siapapunitu.github.io/:8278/streams/d/tvbs_usee/playlist.m3u8
+#EXTINF:-1,RT NEWS
+http://rr3.dens.tv/s/s23/index.m3u8
+#EXTINF:-1,AL JAZEERA
+http://210.210.155.35:80/qwr9ew/s/s17/01.m3u8
+#EXTINF:-1 ,UA
+http://playlist.urfan.web.id/uq2663/h/h101/S4/mnf.m3u8
+#EXTINF:-1 ,DW
+http://playlist.urfan.web.id/qwr9ew/s/s26/01.m3u8
+#EXTINF:-1,ARIRANG KOREA
+https://cubmu.superzap.xyz:8279/arirang/playlist.m3u8
+#EXTINF:-1 ,FRANCE24
+http://playlist.urfan.web.id/qwr9ew/s/s22/01.m3u8
+#EXTINF:-1,TRT WORLD
+http://210.210.155.35:80/uq2663/h/h156/S4/mnf.m3u8
+#EXTINF:-1,TV 5 MONDE
+http://103.226.232.199:8003/play/a04g/index.m3u8
+#EXTINF:-1,WION TV
+http://210.210.155.35:80/uq2663/h/h91/S4/mnf.m3u8
+#EXTINF:-1,THE INDONESIAN CHANNEL
+http://wowzaprod236-i.akamaihd.net/hls/live/1019903/7dd4cf51/playlist.m3u8
+#EXTINF:-1,TEMPO TV
+https://tevemobile.us.to/sc/start.m3u8?id=7946
+#EXTINF:-1,U CHANNEL
+http://rr2.dens.tv/s/s41/index2.m3u8
+#EXTINF:-1,JAKTV
+http://rr3.dens.tv/s/s46/index2.m3u8
+#EXTINF:-1,JTV
+http://rr3.dens.tv/s/s91/index.m3u8
+#EXTINF:-1,DAAITV
+http://rr2.dens.tv/s/s13/index.m3u8
+#EXTINF:-1,FASHION TV
+http://sindoro.axc.my.id:25461/oxygen/SGBT5tKbQp/110
+#EXTINF:-1,LIFESTYLE
+http://rr1.dens.tv/h/h28/index.m3u8
+#EXTINF:-1,STYLE HD
+http://rr1.dens.tv/h/h01/index.m3u8
+#EXTINF:-1,ASTRO AWANI
+https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8
+#EXTINF:-1,TV EDUKASI
+https://tevemobile.us.to/sc/start.m3u8?id=6838
+#EXTINF:-1,MUSICA MUSIC
+https://tevemobile.us.to/sc/start.m3u8?id=7619
+#EXTINF:-1,JOWO
+https://h1.intechmedia.net/intech/ch101.m3u8
+#EXTINF:-1,RANS ENTERTAINMENT
+https://iptv.mwafa.net/vidio/8241/index.m3u8?token=1999
+#EXTINF:-1,INSERT!
+https://cubmu.superzap.xyz:8279/insert/playlist.m3u8
+#EXTINF:-1,BIOSKOP INDO
+https://cubmu.superzap.xyz:8279/bioskop/playlist.m3u8
+#EXTINF:-1,EAT&GO
+https://cubmu.superzap.xyz:8279/eatgo/playlist.m3u8
+#EXTINF:-1,DENS SHOWBIZ
+http://rr3.dens.tv/s/s35/index.m3u8
+#EXTINF:-1,ARAB TV
+http://rr.dens.tv/h/h151/index2.m3u8
+#EXTINF:-1,DUBAI TV
+http://rr.dens.tv/h/h152/index2.m3u8
+#EXTINF:-1,TOONMAX CHN
+http://rr2.dens.tv/s/s50/index.m3u8
+#EXTINF:-1,KBS WORLD
+https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1,FIGHT SPORT
+http://rr1.dens.tv/h/h05/index.m3u8
+#EXTINF:-1,TEN 1 HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/175
+#EXTINF:-1,TEN 1
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/171
+#EXTINF:-1,TEN 2
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/172
+#EXTINF:-1,TEN 3
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/173
+#EXTINF:-1,MTV LIVE
+http://iptv.prosto.tv:7000/ch128/video.m3u8
+#EXTINF:-1,DESI CHANNEL
+https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3u8
+#EXTINF:-1,QXM BOLLYWOOD
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
+#EXTINF:-1,BAU MUSIC
+http://d8380c4177d6.sn.mynetname.net:25461/live/demo/demo/70.m3u8
+#EXTINF:-1,FASHION TV
+https://fashiontv-fashiontv-loriginal-fr.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1,FASHION TV 2
+https://cdn4.mbahnunungonline.net/m3u8/fs/fb8acef7631528b.m3u8
+#EXTINF:-1,FASHION TV 3
+https://cdn4.mbahnunungonline.net/m3u8/fs/801a98b42276bae.m3u8
+#EXTINF:-1,JASMIN TV
+http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
+#EXTINF:-1,MIAMI TV
+https://59ec5453559f0.streamlock.net/JennyLive/smil:JennyLiveWEB/playlist.m3u8
+#EXTINF:-1,DUNIA GAMES
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(ec41a5e2-09e4-431d-b92e-383fa7abe25c)/index.m3u8
+#EXTINF:-1,OSHOP
+https://iptv.mwafa.net/vidio/6166/index.m3u8?token=1999
+#EXTINF:-1 ,Banjar TV
+https://v2.siar.us/banjartv/livestream/chunks.m3u8
+#EXTINF:-1,Duta TV Banjarmasin
+https://v2.siar.us/dutatv/live/chunks.m3u8
+#EXTINF:-1,Prima TV Banjarmasin
+http://primatv.onlivestreaming.net/primatv/livestream/chunks.m3u8
+#EXTINF:-1,Pontianak TV
+https://v3.siar.us/pontianaktelevisi/live/chunks.m3u8
+#EXTINF:-1,Humabetang TV
+https://v3.siar.us/humabetangtv/live/chunks.m3u8
+#EXTINF:-1,BBSTV
+http://103.119.54.246:8080/hls/bbstv.m3u8
+#EXTINF:-1,Adi TV Jogja
+https://video2.onlivestreaming.net/aditv/livestream/chunks.m3u8
+#EXTINF:-1,BMSTV
+http://bmstv.onlivestreaming.net/bmstv/livestream/chunks.m3u8
+#EXTINF:-1,TATV
+https://video2.onlivestreaming.net/tatv/live.sdp/chunks.m3u8
+#EXTINF:-1,InspiraTv
+https://inspiratv.siar.us/inspiratv/live/chunks.m3u8
+#EXTINF:-1,PUJA TV ACEH
+https://v6.siar.us/pujatv/live/chunks.m3u8
+#EXTINF:-1,CGTN
+http://rr2.dens.tv/s/s20/01.m3u8
+#EXTINF:-1,TV ASAHI JPN
+http://50.7.74.29:8880/hls/j00014/index.m3u8
+#EXTINF:-1,MUSIC POP
+http://stream1.ninmedia.tv:1935/popmusik/udp.stream_360p/chunklist_w817579752.m3u8
+#EXTINF:-1,TV TOKYO JPN
+http://50.7.74.29:8880/hls/j00012/index.m3u8
+#EXTINF:-1,TV OSAKA JPN
+http://50.7.74.29:8880/hls/j00013/index.m3u8
+#EXTINF:-1,T MUSIC
+https://cubmu.superzap.xyz:8279/tmusic/playlist.m3u8
+#EXTINF:-1,MALEO
+http://stream1.ninmedia.tv:1935/maleo/udp.stream_360p/chunklist_w1600769433.m3u8
+#EXTINF:-1,KUGO 1
+http://bravo.kugo.id:1935/kugoone/udp.stream_720p/chunklist_w1128048732.m3u8
+#EXTINF:-1,TIVI DANGDUT
+http://bravo.kugo.id:1935/dangduttivi/udp.stream_360p/playlist.m3u8
+#EXTINF:-1,JANGKAR TV
+http://bravo.kugo.id:1935/jangkartv/rtmp.stream_360p/chunklist_w2043614469.m3u8
+#EXTINF:-1,MMI TV
+https://bravo.kugo.id/mmitv/stream.rtmp_360p/playlist.m3u8
+#EXTINF:-1,SPACETOON ID
+http://stream1.ninmedia.tv:1935/spacetoon/udp.stream_360p/playlist.m3u8
+#EXTINF:-1,GARUDA TV
+https://ms.digdaya.tv/live/digdayatv/chunklist_w1940629469.m3u8
