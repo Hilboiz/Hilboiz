@@ -1,0 +1,238 @@
+#EXTM3U
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Liga", INDOSIAR HD
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=eae27d77ca20db309e056e3d2dcd7d696a41c2a2a7270517f5ce8dd2f48fc68d
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IPTV", Inewtv
+http://syarman.hexat.com/INDONESIA HD/Inews.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Liga", SCTV HD
+http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=f846bc691110108f73cb55c2f4049864&cdy=274ad4786c3abca69fa097b85867d9a46a41c2a2a7270517f5ce8dd2f48fc68d
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Liga", O Channel HD
+https://iptv.mwafa.net/vidio/206/index.m3u8?token=1999
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IPTV", RCTI
+https://visionplus-stream.visionplus.id/live/eds/RCTI-Indonesia/sa_hls/RCTI-Indonesia-avc1_499968=5-mp4a_98800_eng=3.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IPTV", MNCTV
+https://visionplus-stream.visionplus.id/live/eds/MNCTV-Merdeka/sa_hls/MNCTV-Merdeka-avc1_499968=5-mp4a_98800_eng=3.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IPTV", GTV
+https://visionplus-stream.visionplus.id/live/eds/GTV-Perjuangan/sa_hls/GTV-Perjuangan-avc1_499968=5-mp4a_98800_eng=3.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IPTV", SCTV
+http://playlist.urfan.web.id/qwr9ew/s/s03/01.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IPTV", INDOSIAR
+http://playlist.urfan.web.id/qwr9ew/s/s04/01.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IPTV", TRANSTV
+http://playlist.urfan.web.id/qwr9ew/s/s05/01.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IPTV", TRANS7
+http://playlist.urfan.web.id/uq2663/h/h11/01.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IPTV", KOMPASTV
+http://playlist.urfan.web.id/qwr9ew/s/s104/01.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IPTV", ANTV
+http://playlist.urfan.web.id/qwr9ew/s/s07/01.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IPTV", TVONE
+http://playlist.urfan.web.id/qwr9ew/s/s105/01.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IPTV", METROTV
+http://playlist.urfan.web.id/uq2663/h/h12/01.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IPTV", NETTV
+http://playlist.urfan.web.id/qwr9ew/s/s08/01.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IPTV", RTV
+http://playlist.urfan.web.id/qwr9ew/s/s12/01.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IPTV", TVRI
+http://playlist.urfan.web.id/qwr9ew/s/s11/01.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IPTV", TVRISPORT
+http://playlist.urfan.web.id/qwr9ew/s/s107/02.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IPTV",NAT GEO WILD
+https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IPTV", ANIMAL PLANET
+http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IPTV", BERITASATU
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IPTV", BERITASATUWORLD
+https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IPTV", BERITASATUENGLISH
+https://b1english.beritasatumedia.com/Beritasatu/B1English_1280x720.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IPTV", QURANTV
+http://playlist.urfan.web.id/qwr9ew/s/s28/01.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IPTV", SUNAHTV
+http://playlist.urfan.web.id/qwr9ew/s/s27/01.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IPTV", RODJATV
+http://playlist.urfan.web.id/qwr9ew/s/s14/01.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES", K+
+http://playlist.urfan.web.id/uq2663/h/h08/01.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES", ONE
+http://playlist.urfan.web.id/uq2663/h/h143/01.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JAPAN", GEM
+http://playlist.urfan.web.id/uq2663/h/h19/01.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES", TVNASIA
+http://playlist.urfan.web.id/dr9445/h/h20/01.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES", TVNMOVIES
+http://playlist.urfan.web.id/dr9445/h/h21/01.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES", CELESTIALMOVIES
+http://playlist.urfan.web.id/qwr9ew/s/s33/01.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES", CINEMAWOLRD
+http://playlist.urfan.web.id/dr9445/h/h04/01.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES", AXN
+http://playlist.urfan.web.id/dr9445/h/h141/01.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES", KIX
+http://playlist.urfan.web.id/dr9445/h/h07/01.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES", HITS
+http://playlist.urfan.web.id/dr9445/h/h37/02.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES", ROCKENTERTAINMENT
+http://playlist.urfan.web.id/dr9445/h/h16/01.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES", ROCKEXTREME
+http://playlist.urfan.web.id/dr9445/h/h15/01.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IPTV", MYKIDZ
+http://playlist.urfan.web.id/uq2663/h/h98/index.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES", MYCN
+http://playlist.urfan.web.id/uq2663/h/h90/S4/mnf.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES", MYCE
+http://playlist.urfan.web.id/uq2663/h/h18/01.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES", ZEEBIOSKOP
+http://playlist.urfan.web.id/qwr9ew/s/s32/01.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="MOVIES", THRILL
+http://playlist.urfan.web.id/qwr9ew/s/s34/01.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JAPAN", ANIMAX
+http://playlist.urfan.web.id/dr9445/h/h144/01.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="JAPAN", ANIPLUS
+http://playlist.urfan.web.id/dr9445/h/h02/01.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IPTV", EGGNETWORK
+http://playlist.urfan.web.id/uq2663/h/h22/01.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IPTV", FIGHTSPORT
+http://playlist.urfan.web.id/dr9445/h/h05/01.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IPTV", MOTORVISIONTV
+http://playlist.urfan.web.id/uq2663/h/h09/01.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IPTV", GOLF
+http://playlist.urfan.web.id/dr9445/h/h10/01.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IPTV", BLOOMBERG
+http://playlist.urfan.web.id/dr9445/h/h03/01.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IPTV", CNA
+http://playlist.urfan.web.id/uq2663/h/h29/01.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IPTV", NHKWORLD
+http://playlist.urfan.web.id/uq2663/h/h23/01.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IPTV", ALJAZEERAWORLD
+http://playlist.urfan.web.id/qwr9ew/s/s17/01.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IPTV", TRTWORLD
+http://playlist.urfan.web.id/uq2663/h/h156/S4/mnf.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IPTV", WION
+http://playlist.urfan.web.id/uq2663/h/h91/S4/mnf.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IPTV", UA
+http://playlist.urfan.web.id/uq2663/h/h101/S4/mnf.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IPTV", ALJAZEERA
+http://playlist.urfan.web.id/qwr9ew/s/s16/01.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IPTV", CCTV4
+http://playlist.urfan.web.id/qwr9ew/s/s19/01.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IPTV", FRANCE24
+http://playlist.urfan.web.id/qwr9ew/s/s22/01.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IPTV", TV5MONDE
+http://playlist.urfan.web.id/dr9445/s/s24/01.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IPTV", DW
+http://playlist.urfan.web.id/qwr9ew/s/s26/01.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IPTV", CGTNDOCUMENTARY
+http://playlist.urfan.web.id/qwr9ew/s/s20/01.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IPTV", DAAITV
+http://playlist.urfan.web.id/qwr9ew/s/s13/01.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IPTV", MYTV
+http://playlist.urfan.web.id/qwr9ew/s/s46/01.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IPTV", ELSHINTATV
+http://playlist.urfan.web.id/qwr9ew/s/s10/01.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IPTV", TVKU
+http://103.30.1.14:8080/hls/live.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IPTV", ADITV
+http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IPTV", TATV
+https://v2.siar.us/tatv/live.sdp/chunks.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IPTV", JTV
+http://122.248.43.138:1935/ch2/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IPTV", BETV
+http://122.248.43.138:1935/ch3/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IPTV", BTV
+http://122.248.43.138:1935/ch5/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IPTV", JPMTV
+http://122.248.43.138:1935/ch6/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IPTV", PALTV
+http://122.248.43.138:1935/ch7/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IPTV", RCTV
+http://122.248.43.138:1935/ch9/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IPTV", RIAUTV
+http://122.248.43.138:1935/ch11/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IPTV", RBTV
+http://122.248.43.138:1935/ch12/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IPTV", JEKTV
+http://122.248.43.138:1935/ch14/myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="IPTV", KAWANUATV
+http://122.248.43.138:1935/ch18/myStream/playlist.m3u8
