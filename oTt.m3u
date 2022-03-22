@@ -1,0 +1,1474 @@
+######################################### LOKAL USEE ZI#################################
+#EXTINF:0 tvg-id="useeinfo" tvg-name="" tvg-logo="https://images.useetv.com/logo_ruangtrampil_big.png" group-title="LOKAL USEE ZI",Ruang Terampil
+https://harber.xyz/stream/usee-useeinfo-milik-harberkuy.m3u8
+
+#EXTINF:0 tvg-id="useephoto" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channeliptv/logo_useephoto_small.png" group-title="LOKAL USEE ZI",Usee Photo
+http://harber.xyz/stKIream/usee-useephoto-milik-harberkuy.m3u8
+
+#EXTINF:-:0 tvg-id="useeprime" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_useeprime_small1.png" group-title="LOKAL USEE ZI",Usee Prime
+https://harber.xyz/stream/usee-useeprime-milik-harberkuy.m3u8
+
+#EXTINF:0 tvg-id="indosiar" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_big1.png" group-title="LOKAL USEE ZI",INDOSIAR
+https://harber.xyz/stream/usee-indosiar-milik-harberkuy.m3u8
+
+#EXTINF:0 tvg-id="antv" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_big1.png" group-title="LOKAL USEE ZI",ANTV
+http://210.210.155.35/session/cd7ec4e2-d9f0-11ea-b1f3-c81f66f89318/qwr9ew/s/s07/01.m3u8
+
+#EXTINF:0 tvg-id="sctv" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_big1.png" group-title="LOKAL USEE ZI",SCTV
+http://harber.xyz/stream/usee-vidio-sctv-milik-harberkuy.m3u8
+
+#EXTINF:0 tvg-id="trans7" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png" group-title="LOKAL USEE ZI",TRANS 7
+http://harber.xyz/stream/usee-trans7-milik-harberkuy.m3u8
+
+#EXTINF:0 tvg-id="transtv" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png" group-title="LOKAL USEE ZI",TRANS TV
+http://harber.xyz/stream/usee-transtv-milik-harberkuy.m3u8
+
+#EXTINF:0 tvg-id="nettv" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_big1.png" group-title="LOKAL USEE ZI",NET TV
+http://harber.xyz/stream/usee-vidio-net-milik-harberkuy.m3u8
+
+#EXTINF:0 tvg-id="kompastv" tvg-name="" tvg-logo="https://www.indihome.co.id/assets/images/channels/IndiHome-Channel-Essential/Local/KompasTV.png" group-title="LOKAL USEE ZI",KOMPAS TV
+http://harber.xyz/stream/usee-kompastv-milik-harberkuy.m3u8
+
+#EXTINF:0 tvg-id="rtv" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_rtv_small1.png?v=2.0.0.13" group-title="LOKAL USEE ZI",RTV TV
+http://harber.xyz/stream/usee-rtv-milik-harberkuy.m3u8
+
+#EXTINF:0 tvg-id="jaktv" tvg-name="" tvg-logo="https://images.useetv.com/logo_jaktv_big1.png" group-title="LOKAL USEE ZI",JAK TV
+http://harber.xyz/stream/usee-jaktv-milik-harberkuy.m3u8
+
+#EXTINF:0 tvg-id="tvri" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvri_small1.png?v=2.0.0.13" group-title="LOKAL USEE ZI",TVRI
+http://harber.xyz/stream/usee-tvri-milik-harberkuy.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_mytv_small1.png?v=2.0.0.13" group-title="LOKAL USEE ZI",MyTV
+http://harber.xyz/stream/usee-mytv-milik-harberkuy.m3u8
+
+#EXTINF:0 tvg-id="daaitv" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_daaitv_small1.png" group-title="LOKAL USEE ZI",DAAI TV
+http://harber.xyz/stream/usee-daaitv-milik-harberkuy.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/b/b9/BaliTV_2014.png/200px-BaliTV_2014.png" group-title="LOKAL USEE ZI",BALI TV
+http://harber.xyz/stream/usee-balitv-milik-harberkuy.m3u8
+
+#EXTINF:-1 tvg-logo="http://jogjatv.tv/wp-content/uploads/2015/08/LOGO-JOGJA-TV-NEW-pii-new.png" group-title="LOKAL USEE ZI",JTV
+http://harber.xyz/stream/usee-jtv-milik-harberkuy.m3u8
+
+#EXTINF:0 tvg-id="antaratv" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_antaratv_small1.png?v=2.0.0.13" group-title="LOKAL USEE ZI",ANTARA TV
+http://harber.xyz/stream/usee-antara-milik-harberkuy.m3u8
+
+#EXTINF:0 tvg-id="beritasatu" tvg-name="BeritaSatu.id" tvg-logo="http://www.beritasatu.tv/wp-content/themes/beritasatu/images/beritasatu-news-ch.png" group-title="LOKAL USEE ZI",BERITA SATU TV
+http://harber.xyz/stream/usee-beritasatu-milik-harberkuy.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_rrinet_small1.png?v=2.0.0.13" group-title="LOKAL USEE ZI",RRI NET TV
+http://harber.xyz/stream/usee-rrinet-milik-harberkuy.m3u8
+
+
+
+######################################### USEE SPORTS ZI#################################
+#EXTINF:0 tvg-id="beinsport1" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_big1.png" group-title="USEE SPORTS ZI",beIN Sport 1
+http://harber.xyz/stream/usee-bein1-milik-harberkuy.m3u8
+
+#EXTINF:0 tvg-id="beinsport2" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_big1.png" group-title="USEE SPORTS ZI",beIN Sport 2
+http://harber.xyz/stream/usee-bein2-milik-harberkuy.m3u8
+
+#EXTINF:0 tvg-id="useesport1" tvg-name="" tvg-logo="https://macan.network/img/useetv.png" group-title="USEE SPORTS ZI",UseeSports 1
+http://harber.xyz/stream/usee-useesport-milik-harberkuy.m3u8
+
+#EXTINF:0 tvg-id="useesport2" tvg-name="" tvg-logo="https://macan.network/img/useetv.png" group-title="USEE SPORTS ZI",UseeSports 2
+http://harber.xyz/stream/usee-useesports2-milik-harberkuy.m3u8
+
+#EXTINF:0 tvg-id="championtv1" tvg-name="" tvg-logo="https://macan.network/img/champions1.png" group-title="USEE SPORTS ZI",Champions TV 1
+http://harber.xyz/stream/usee-champion1-milik-harberkuy.m3u8
+
+#EXTINF:0 tvg-id="championtv2" tvg-name="" tvg-logo="https://macan.network/img/champions1.png" group-title="USEE SPORTS ZI",Champions TV 2
+http://harber.xyz/stream/usee-champion2-milik-harberkuy.m3u8
+
+#EXTINF:0 tvg-id="foxsport1" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png" group-title="USEE SPORTS ZI",Fox Sport 1
+http://harber.xyz/stream/usee-foxsport1-milik-harberkuy.m3u8
+
+#EXTINF:0 tvg-id="foxsport2" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports2_small.png" group-title="USEE SPORTS ZI",Fox Sport 2
+http://harber.xyz/stream/usee-foxsport2-milik-harberkuy.m3u8
+
+#EXTINF:0 tvg-id="foxsport3" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports3_small.png" group-title="USEE SPORTS ZI",Fox Sport 3
+http://harber.xyz/stream/usee-foxsport3-milik-harberkuy.m3u8
+
+#EXTINF:0 tvg-id="nbatv" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_nba_small1.png" group-title="USEE SPORTS ZI",NBA TV
+http://harber.xyz/stream/usee-nba-milik-harberkuy.m3u8
+
+#EXTINF:0 tvg-id="egg" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/24/EGG_Network.png" group-title="USEE SPORTS ZI",Egg Network TV
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/02-milik-harberkuy.m3u8
+
+
+######################################### USEE KNOWLEDGE ZI########################
+#EXTINF:0  tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeo_small.png" group-title="USEE KNOWLEDGE ZI",National Geographic
+http://harber.xyz/stream/usee-natgeo-milik-harberkuy.m3u8
+
+#EXTINF:0  tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeopeople_small.png" group-title="USEE KNOWLEDGE ZI",National Geographic People
+https://harber.xyz/stream/usee-natgeopeople-milik-harberkuy.m3u8
+
+#EXTINF:0  tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeowild_small.png" group-title="USEE KNOWLEDGE ZI",National Geographic Wild
+http://harber.xyz/stream/usee-natgeowild-milik-harberkuy.m3u8
+
+#EXTINF:0  tvg-logo="https://www.crimeandinvestigation.de/fileadmin/user_upload/CI_Bild_OG_FB.jpg" group-title="USEE KNOWLEDGE ZI",Crime Investigation
+http://harber.xyz/stream/usee-crimeinvestigation-milik-harberkuy.m3u8
+
+#EXTINF:0  tvg-logo="https://www.useetv.com/assets/images/channel/logo_lingua_small.png" group-title="USEE KNOWLEDGE ZI",Lingua
+http://harber.xyz/stream/usee-lingua-milik-harberkuy.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_discovery_small.png" group-title="USEE KNOWLEDGE ZI",Discovery Channel
+http://harber.xyz/stream/usee-disco-milik-harberkuy.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://tvbeta.my.id/logo/tivi/cgtn.png" group-title="USEE KNOWLEDGE ZI",CGTN Documentary
+http://harber.xyz/stream/usee-cgtndocumentary-milik-harberkuy.m3u8
+
+
+######################################### KIDS ZI#################################
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickelodeon_small.png" group-title="KIDS ZI",Nickelodeon
+http://harber.xyz/stream/usee-nickelodeon-milik-harberkuy.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_babyfirst_small.png" group-title="KIDS ZI",Baby First
+http://harber.xyz/stream/usee-babyfirst-milik-harberkuy.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_duck_small1.png" group-title="KIDS ZI",Duck TV
+http://harber.xyz/stream/usee-ducktv-milik-harberkuy.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_horee_small.png" group-title="KIDS ZI",Horee TV
+http://harber.xyz/stream/usee-horee-milik-harberkuy.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_boomerang_small.png" group-title="KIDS ZI",Boomerang 
+http://harber.xyz/stream/usee-boomerang-milik-harberkuy.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cartoonnetwork_small.png" group-title="KIDS ZI",Cartoon Network
+http://harber.xyz/stream/usee-cartoonnetwork-milik-harberkuy.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_duniaanak_small1.png" group-title="KIDS ZI",Dunia Anak
+http://harber.xyz/stream/usee-duniaanak-milik-harberkuy.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickjr_small.png" group-title="KIDS ZI",Nick Junior
+http://harber.xyz/stream/usee-nickjr-milik-harberkuy.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_davinci_small1.png" group-title="KIDS ZI",Davinci Learning
+http://harber.xyz/stream/usee-davinci-milik-harberkuy.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dreamworks_small1.png" group-title="KIDS ZI",Dreamworks TV
+http://harber.xyz/stream/usee-dreamworks-milik-harberkuy.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_spacetoonplus_small1.png" group-title="KIDS ZI",Spacetoon Plus
+http://livecdnh2.tvanywhere.ae/hls/spacetoon/03-milik-harberkuy.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png" group-title="KIDS ZI",Aniplus
+http://harber.xyz/stream/usee-aniplus-milik-harberkuy.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.ucipliban.org/fr/wp-content/uploads/2018/07/sat7kids.jpg" group-title="KIDS ZI",SA7 KIDS TV
+http://harber.xyz/stream/usee-aniplus-milik-harberkuy.m3u8
+
+
+
+######################################### USEE ENTERTAINMENT ZI########################
+#EXTINF:-1  tvg-logo="https://zichannels.xyz/img/citra_drama.png" group-title="USEE ENTERTAINMENT ZI",Citra Drama
+http://harber.xyz/stream/usee-cdrama-milik-harberkuy.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://macan.network/img/dunialain.png" group-title="USEE ENTERTAINMENT ZI",Dunia Lain
+http://harber.xyz/stream/usee-dunialain-milik-harberkuy.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple49/v4/3b/f7/73/3bf773db-d79d-24d4-8007-9fa48aeca225/pr_source.png/246x0w.png" group-title="USEE ENTERTAINMENT ZI",Animax
+http://harber.xyz/stream/usee-animax-milik-harberkuy.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/1200px-Logo_tvN.svg.png" group-title="USEE ENTERTAINMENT ZI",TVN TV
+http://harber.xyz/stream/usee-tvn-milik-harberkuy.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kbsworld_small.png" group-title="USEE ENTERTAINMENT ZI",KBS World
+http://harber.xyz/stream/usee-kbsworld-milik-harberkuy.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_blueant_small.png" group-title="USEE ENTERTAINMENT ZI",Blue Ant Entertainment
+http://harber.xyz/stream/usee-blueant-milik-harberkuy.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_blueantext_small.png" group-title="USEE ENTERTAINMENT ZI",Blue Ant Extreme
+http://harber.xyz/stream/usee-blueantextreme-milik-harberkuy.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.abc.net.au/core/assets/abchome.png" group-title="USEE ENTERTAINMENT ZI",ABC Australia
+http://harber.xyz/stream/usee-abcaustralia-milik-harberkuy.m3u8
+
+#EXTINF:-1  tvg-logo="https://www.useetv.com/assets/images/channel/logo_chinesedrama_small.png" group-title="USEE ENTERTAINMENT ZI",Chinese Drama
+http://harber.xyz/stream/usee-chinesedrama-milik-harberkuy.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Lifetime_logo17.svg/1200px-Lifetime_logo17.svg.png" group-title="USEE ENTERTAINMENT ZI",Lifetime
+http://harber.xyz/stream/usee-lifetime-milik-harberkuy.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_history_small.png" group-title="USEE ENTERTAINMENT ZI",History TV
+http://harber.xyz/stream/usee-history-milik-harberkuy.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="WakuWakuJapan.id" tvg-logo="https://www.useetv.com/assets/images/channel/logo_wakuwaku_small.png" group-title="USEE ENTERTAINMENT ZI",Waku Waku Japan
+http://harber.xyz/stream/usee-wakuwaku-milik-harberkuy.m3u8
+
+#EXTINF:1 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_warner_small.png" group-title="USEE ENTERTAINMENT ZI",Warner TV
+http://harber.xyz/stream/usee-warner-milik-harberkuy.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://4.bp.blogspot.com/-x7xFtvyiszc/VwSRgKroVrI/AAAAAAAAdKE/3KIriwLqcusTN60EcJP8wu5mRubV2jddA/s1600/cctv-4-logo.png" group-title="USEE ENTERTAINMENT ZI",CCTV 4
+http://210.210.155.35/qwr9ew/s/s19/01.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/K_Plus_Asia_Logo.jpg/250px-K_Plus_Asia_Logo.jpg" group-title="USEE ENTERTAINMENT ZI",K Plus
+http://harber.xyz/stream/usee-kplus-milik-harberkuy.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/1/1b/Sony_gem_asia.png" group-title="USEE ENTERTAINMENT ZI",Sony Gem TV
+http://harber.xyz/stream/usee-sgem-milik-harberkuy.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://1.bp.blogspot.com/-kMloFMG0Mt4/Waquz5GL5xI/AAAAAAAAAGQ/TY1bdc6tx-IzDlcf_5gaSPwoHlIt9p4jgCLcBGAs/w1200-h630-p-k-no-nu/S-One-HD-Ch393.png" group-title="USEE ENTERTAINMENT ZI",Sony One TV
+http://harber.xyz/stream/usee-sone-milik-harberkuy.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.breew.com/V4/wp-content/uploads/2014/04/mzl.wqcvqezh.png" group-title="USEE ENTERTAINMENT ZI",TV 5 Monde Asia
+http://harber.xyz/stream/usee-tv5monde-milik-harberkuy.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://zichannels.xyz/img/afc.png" group-title="USEE ENTERTAINMENT ZI",Asian Food Channel
+http://harber.xyz/stream/usee-afc-milik-harberkuy.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/1200px-Fashion_TV_logo.svg.png" group-title="USEE ENTERTAINMENT ZI",Fashion TV
+http://harber.xyz/stream/usee-fashiontv-milik-harberkuy.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.pngitem.com/pimgs/m/335-3354416_logo-fashion-one-tv-channel-logo-hd-png.png" group-title="USEE ENTERTAINMENT ZI",Fashion One TV
+http://harber.xyz/stream/usee-fashionone-milik-harberkuy.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_eatgo_small1.png" group-title="USEE ENTERTAINMENT ZI",Eat & Go
+http://harber.xyz/stream/usee-eatgo-milik-harberkuy.m3u8
+
+
+
+######################################### USEE MOVIE ZI########################
+#EXTINF:-1 tvg-logo="https://ninmedia.tv/wp-content/uploads/2019/09/IMC-logo-color-250x140.png" group-title="USEE MOVIE ZI",IMC TV
+http://harber.xyz/stream/usee-imc-milik-harberkuy.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="CelestialMovies.id" tvg-logo="https://www.useetv.com/assets/images/channel/logo_celestialmovie_small.png" group-title="USEE MOVIE ZI",Celestial Movie
+http://harber.xyz/stream/usee-celestialmovie-milik-harberkuy.m3u8
+
+##EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_cinemaworld_small.png" group-title="USEE MOVIE ZI",Cinema World
+http://harber.xyz/stream/usee-cinemaworld-milik-harberkuy.m3u8
+
+#EXTINF:0 tvg-name="BioskopIndonesia.id" tvg-logo="https://macan.network/img/bioskopindonesia.png" group-title="USEE MOVIE ZI",Bioskop Indonesia
+http://harber.xyz/stream/usee-bioskopindonesia-milik-harberkuy.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://macan.network/img/flik.png" group-title="USEE MOVIE ZI",FLIK 
+http://harber.xyz/stream/usee-flik-milik-harberkuy.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6f/Galaxytvhdlogo.png" group-title="USEE MOVIE ZI",T Galaxy TV
+http://harber.xyz/stream/usee-galaxy-milik-harberkuy.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://pbs.twimg.com/profile_images/517282529699586048/3N0-s8ar.png" group-title="USEE MOVIE ZI",Thrill TV
+http://harber.xyz/stream/usee-thrill-milik-harberkuy.m3u8
+
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://www.useetv.com/assets/images/channel/logo_zbioskop_small1.png" group-title="USEE MOVIE ZI",Zee Bioskop
+https://harber.xyz/stream/usee-vidio-zee-bioskop-milik-harberkuy.m3u8
+
+
+
+
+
+###############NEWS ZI##########################
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/-PWtwDVBQ81I/AAAAAAAAAAI/AAAAAAAAAAA/TV9LxFTHLEA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" group-title="NEWS ZI",INewsTV
+https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logogrey/grey_logo_cnnindonesia_small1.png" group-title="NEWS ZI",CNN INDONESIA 
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+
+
+
+###############TVRI DAERAH ZI##########################
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png" group-title="TVRI DAERAH ZI",TVRI
+http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png" group-title="TVRI DAERAH ZI",TVRI 3
+http://118.97.50.107/Content/HLS/Live/Channel(TVRI3)/Stream(02)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png" group-title="TVRI DAERAH ZI",TVRI BENGKULU
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIMALUKUAMBON)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png" group-title="TVRI DAERAH ZI",TVRI KUPANG
+http://118.97.50.107/Content/HLS/Live/Channel(TVRInttkupang)/Stream(02)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png" group-title="TVRI DAERAH ZI",TVRI DENPASAR
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIbali)/Stream(02)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png" group-title="TVRI DAERAH ZI",TVRI JOGJA
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png" group-title="TVRI DAERAH ZI",TVRI SEMARANG
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIjatengsemarang)/Stream(02)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png" group-title="TVRI DAERAH ZI",TVRI SURABAYA
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIjatimsurabaya)/Stream(02)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png" group-title="TVRI DAERAH ZI",TVRI BANDUNG
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIjabarbandung)/Stream(02)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png" group-title="TVRI DAERAH ZI",TVRI JAKARTA
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIdki)/Stream(02)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png" group-title="TVRI DAERAH ZI",TVRI ACEH
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIaceh)/Stream(02)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png" group-title="TVRI DAERAH ZI",TVRI MEDAN
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIsumutmedan)/Stream(02)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png" group-title="TVRI DAERAH ZI",TVRI PADANG
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIsumbarpadang)/Stream(02)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png" group-title="TVRI DAERAH ZI",TVRI PEKANBARU
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIriau)/Stream(02)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png" group-title="TVRI DAERAH ZI",TVRI BELITUNG
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIbabel)/Stream(02)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png" group-title="TVRI DAERAH ZI",TVRI PALEMBANG
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIsumsel)/Stream(02)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png" group-title="TVRI DAERAH ZI",TVRI LAMPUNG
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIlampung)/Stream(02)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png" group-title="TVRI DAERAH ZI",TVRI SAMARINDA
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIkaltimsamarinda)/Stream(02)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png" group-title="TVRI DAERAH ZI",TVRI MAKASSAR
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIsulselmakasar)/Stream(02)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png" group-title="TVRI DAERAH ZI",TVRI JAMBI
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIjambi)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png" group-title="TVRI DAERAH ZI",TVRI JATENG SEMARANG
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIjatengsemarang)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png" group-title="TVRI DAERAH ZI",TVRI KALBAR
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIKALBAR)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png" group-title="TVRI DAERAH ZI",TVRI KALSEL BANJARMASIN
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIkalselbanjarmsn)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png" group-title="TVRI DAERAH ZI",TVRI KALTENG
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIkalteng)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png" group-title="TVRI DAERAH ZI",TVRI SULSEL MAKASSAR
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIsulselmakasar)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png" group-title="TVRI DAERAH ZI",TVRI PAPUA
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIpapua)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png" group-title="TVRI DAERAH ZI",TVRI SULTENG PALU
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIsultengpalu)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1200px-TVRILogo2019.svg.png" group-title="TVRI DAERAH ZI",TVRI SULUT MANADO
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIsulutmanado)/Stream(03)/index.m3u8
+
+
+
+
+######################################### MOVIE ZI################################# 
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b3/MNX_logo.png/revision/latest/scale-to-width-down/340?cb=20200114193517" group-title="MOVIE ZI", MNX
+https://timesnow.airtel.tv/live/MNX_pull/chunklist_3.m3u8
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/922/754/png-transparent-movies-now-television-channel-high-definition-television-mn-movies-miscellaneous-television-text.png" group-title="MOVIE ZI", Movies Now
+https://timesnow.airtel.tv/live/MN_pull/chunklist_3.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/4b/Romedy_Now.jpg/revision/latest/scale-to-width-down/340?cb=20171207200336" group-title="MOVIE ZI", Romedy Now
+https://timesnow.airtel.tv/live/RN_pull/chunklist_3.m3u8
+
+######################################### ARAB ZI#################################
+#EXTINF:-1 tvg-logo="http://quran.sr.sa/wp-content/uploads/2019/07/logoquran.png" group-title="ARAB ZI",Makkah TV
+http://makkahtv.srfms.com:1935/makkahtv/livestream/chunklist_w1150651953.m3u8
+
+#EXTINF:-1 tvg-logo="http://neda.sr.sa/wp-content/uploads/2019/08/logoneda.png" group-title="ARAB ZI",Medina TV
+http://playlive.goonj.pk/madinaweb_480p/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/83/dd/b7/83ddb747509ef6590773b137de94384a.jpg" group-title="ARAB ZI",Mtv Lebanon
+http://sansatplus.net:25461/02027200444782/sLRZRJoa01/7171
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/ae/MBC1.ae.png" group-title="ARAB ZI",MBC 1
+http://sansatplus.net:25461/02027200444782/sLRZRJoa01/41429
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/sa/MBC4.sa.png" group-title="ARAB ZI",MBC 4
+http://sansatplus.net:25461/02027200444782/sLRZRJoa01/7309
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/ae/MBCDrama.ae.png" group-title="ARAB ZI",MBC DRAMA
+https://shls-mbcdramaksa-prod.shahid.net/mbcdramaksa-prod_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/eg/MbcMasr.eg.png" group-title="ARAB ZI",MBC Masr
+https://shls-masr-prod.shahid.net/masr-prod_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.mbc.net/dam/jcr:0372b6d7-467a-4021-ada8-b19581ca450d/mbc-iraq.png" group-title="ARAB ZI",MBC Iraq
+https://shls-iraq-prod.shahid.net/iraq-prod_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.admedia.ae/images/Brands/20202231158324351.png" group-title="ARAB ZI",Abu Dhabi Al Oula
+http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_aloula
+
+#EXTINF:-1 tvg-logo="https://www.alaan.tv/wp-content/themes/alaan-child-tv/assets/img/logo.png" group-title="ARAB ZI",Al Aan
+https://streamingcdn.alaan.tv/Publisher/alaantv_twitter/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="ext" group-title="ARAB ZI",Dubai Ola
+http://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.stream.smil/chunklist_b1500000.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.digitalstudiome.com/public/images/2017/10/15/Dubai-One-Logo.jpg" group-title="ARAB ZI",Dubai One
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b380000.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/754573256665997312/T4ATpb5Q.jpg" group-title="ARAB ZI",Noor Dubai
+http://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist_b1500000.m3u8
+
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ae-sama-dubai-9643.jpg" group-title="ARAB ZI",Sama Dubai
+http://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.stream.smil/chunklist_b1600000.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1283_1.png" group-title="ARAB ZI",Dubai Zaman
+http://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist_b1500000.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tunisvista.com/medias/sharjah-tv-live.png" group-title="ARAB ZI",Sharjah
+https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://iqraa.com/Media/Blog_Post_Pictures/Iqraa_logo.jpg" group-title="ARAB ZI",Iqraa TV
+http://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/chunklist_b1800000_t64NTc2cA==.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.starsofscience.com/sites/default/files/oman_tv.jpg" group-title="ARAB ZI",Oman TV
+http://jmc-live.ercdn.net/alistiqama/alistiqama_576p.m3u8
+
+#EXTINF:-1 tvg-logo="https://arb4host.com/news/wp-content/uploads/2019/01/598349_548482528513980_1373409655_n.jpg" group-title="ARAB ZI",Kuwait Al Rai
+https://stream02.fasttelco.net/live/alrai.stream/chunklist_w2023460738.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSsvnrjUStZCNEe2-0qMRqpbsW7pO8BMnNmbw&usqp=CAU" group-title="ARAB ZI",Libya 1
+http://starmena.ercdn.net/libyaschannel/libyaschannel_480p.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/218_TV_Channel_Logo.jpg" group-title="ARAB ZI",Libya 218
+https://stream.218tv.net/libya218TV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.qassimy.com/channel-tv-live/files/image/al_ekhbariya_saudi_news_tv_islamic_live_online_free_arabic_channel.png" group-title="ARAB ZI",Libya Al Ekhbariya
+http://82.212.74.2:8000/live/7321.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tunisvista.com/medias/al-nahar-tv-live-online-streaming-egypt.png" group-title="ARAB ZI",El Nahar
+http://numidiatv-live.dzsecurity.net:8081/entv/EnnaharTV_SD/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tunisvista.com/medias/watan-tv-live-online-streaming-direct-egypt.jpg" group-title="ARAB ZI",Watan TV
+http://51.15.246.58:8081/watantv_source2/live/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/MbuitSsryxs/hqdefault.jpg" group-title="ARAB ZI",Ajyal TV
+http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/%D9%82%D9%86%D8%A7%D8%A9_%D9%85%D9%83%D9%85%D9%84%D9%8A%D9%86.jpg" group-title="ARAB ZI",Mekameleen
+http://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/chunklist_b1864000.m3u8?
+
+#EXTINF:-1 tvg-logo="https://ewsat.com/img/AL_IRAQYA.png" group-title="ARAB ZI",Al Iraqiya
+http://cdn.catiacast.video/imn/2d51fe4a0ba54894421ead1809309ed9.sdp/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://image.gametracker.com/clan/968/93/f/logo_192.jpg" group-title="ARAB ZI",Al Taghier
+https://player-api.new.livestream.com/accounts/17678123/events/8170529/live.secure.m3u8
+
+#EXTINF:-1 tvg-logo="http://dz.heytv.org/wp-content/uploads/2019/03/Alrafidain-TV.jpg" group-title="ARAB ZI",Al Rafidain
+http://cdg3.edge.tmed.pw/arrafidaintv/live_1024p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/Bvr3qLhwFNZ2ddJyPSSzDJX0uZwbtRHPXYkWljUR45jafpOp88olIRKPkOz1f4bD_HI" group-title="ARAB ZI",Al Hurra
+http://mbningestworld-i.akamaihd.net/hls/live/586122/worldsafe/master_2596.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.alsharqiya.com/Content/web-assets/img/logo.png" group-title="ARAB ZI",Al Sharqiya TV
+http://ns8.indexforce.com:1935/home/mystream/chunklist_w565406043.m3u8
+
+#EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1342_1.png" group-title="ARAB ZI",Syria Plus
+https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8
+
+
+
+
+
+
+######################################### RELIGI ZI#################################
+#EXTINF:-1 tvg-logo="https://izzah.tv/wp-content/uploads/2020/08/IZZAH-TV-1-e1597848734741.png" group-title="RELIGI ZI",IZZAH TV
+http://streaming.sigraduta.co.id/izzahtv.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_rodjatv_small1.png" group-title="RELIGI ZI",Rodja TV 1
+http://210.210.155.35/session/f9f8e3c0-8c90-11ea-b29b-b82a72d63267/qwr9ew/s/s14/01.m3u8
+
+#EXTINF:0 tvg-logo="http://www.tvislamonline.com/images/logo/medina.png" group-title="RELIGI ZI",Al Sunnah Al Nabawiyah TV
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_rodjatv_small1.png" group-title="RELIGI ZI",Rodja TV 2
+http://vids.rodja.tv:1935/live/rodja/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://www.tvislamonline.com/images/logo/makkah.png" group-title="RELIGI ZI",Al Quran Al Kareem TV
+http://makkahtv.srfms.com:1935/makkahtv/livestream/chunklist_w1944066637.m3u8?v=2545016994
+
+#EXTINF:0 tvg-logo="http://www.tvislamonline.com/images/logo/medina.png" group-title="RELIGI ZI",Ayat live
+http://ayat.live.net.sa:1935/live/ayat/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://www.tm.com.my/hypptvdatabase/Channels/hypp-inspirasi.png" group-title="RELIGI ZI",TV Muslim
+http://62.210.246.131:25461/live/gxfgss/HHVVPP/28768.ts?token=HhVYAkpZQF8XBlJaDwdeCQUGVQFVWlMDB1AAUVQHD1VQUwNaXAZaVlcTThtFQ0pVUlk6X1QaWVNdBABSG0dDEgBFbwpdE1hHBAdaCA4CGhwRQAxbVRpZUFAKC1IBUQBXUxsSE1BVQF9bRA5VGhVdSEdRF1hRVDwFAERRAFJHDA8QW1xPG14MOlFUD1hYUxoKEQVHGhJREBFHCFYWWwkaQwdeRBFYRQdHD18XVVobGlNcQQtCQkFBW0d%2FYUEbR1MZEVJeEFBeDEcPExZKFBsaWUBrF1NDTBEEBF9dERVfFFFHGxIOWEk9BlpfDFxVQ1FfXUdHDBIJQU1HX1cNXhFZEzpHWQcbCwwQWV0f
+
+#EXTINF:0 tvg-logo="http://www.tvislamonline.com/images/logo/surautv.png" group-title="RELIGI ZI",Surau TV Padang
+http://119.235.249.58:1935/surautv/live/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://www.tvislamonline.com/images/logo/rodja.png" group-title="RELIGI ZI",Rodja TV Cileungsi
+http://vids.rodja.tv:1935/live/rodja/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://www.tvislamonline.com/images/logo/ahsan.png" group-title="RELIGI ZI",Ahsan TV Cikarang
+http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://www.tvislamonline.com/images/logo/insantv.png" group-title="RELIGI ZI",Insan TV Pondok Kelapa
+http://wz.insantv.net/group/ngrp:insantv_mobile/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://live.artvisi.or.id/logo/puldapiitv.png" group-title="RELIGI ZI",Puldapii TV Bekasi
+http://103.77.106.227:8080/hls/web.m3u8
+
+#EXTINF:0 tvg-logo="http://live.artvisi.or.id/logo/alimantv.png" group-title="RELIGI ZI",Al-Iman TV Surabaya
+http://vs.suaraaliman.com:1935/aliman/HD/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://live.artvisi.or.id/logo/ashiiltv.png" group-title="RELIGI ZI",Ashiil TV Pekanbaru
+http://119.82.232.89:1935/ashiiltv/live2/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://www.1mdb.my/wp-content/uploads/2015/03/Bernama.png" group-title="RELIGI ZI",BARNAMA TV
+http://ss2.layarku.tv:1935/mylive/bernama2_all.smil/playlist.m3u8
+
+#EXTINF:0 tvg-logo="http://www.tvislamonline.com/images/logo/niagatv.png" group-title="RELIGI ZI",Niaga TV Jagakarsa
+http://119.235.249.58:1935/niagatv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/sa-saudi-arabian-tv-1-7700.jpg" group-title="RELIGI ZI",Madinah TV
+http://210.210.155.35/qwr9ew/s/s27/01.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://nabawi.tv/wp-content/uploads/2019/12/logo-nabawitv-500px.png" group-title="RELIGI ZI",Nabawi TV
+http://stream2.ninmedia.tv/live/xmedia-nabawitv.stream_nin/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-DNCLjN6IfTU/VnqQFMovDMI/AAAAAAAAAIE/mvLUP8P4yFs/s1600/AL-BAHJAH%2BTV%2BOK%2B3.png" group-title="RELIGI ZI",Al Bahjah TV
+https://edge.siar.us/albahjahtv/live/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://puldapii.tv/new/wp-content/uploads/2018/06/Logo-PULDAPII.png" group-title="RELIGI ZI",Puldapii TV Bekasi
+http://103.77.106.227:8080/hls/web.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/Dl4NAFYUcAAJpHr.png" group-title="RELIGI ZI",Rifqan TV
+http://119.82.232.89:1935/rifqan/live/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-ehxzn-nLrbk/XAS42l_PeDI/AAAAAAAADkM/t1mrHPChj4Ix97LZ-Ug4IYHJWBQ3v8b1ACLcBGAs/s1600/Frekuensi%2BChannel%2BAl%2BIman%2BTV%2BSatelit%2BPalapa%2BD.jpg" group-title="RELIGI ZI",AL-IMAN TV
+http://tv.aliman.id:1935/aliman/HD/chunklist_w171899086.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-zYNS2cXUxL4/VagaiRw08rI/AAAAAAAAFWY/vtz5L0R5PTg/s200/Surau%2BTV%2Bstreaming%2Bonline.png" group-title="RELIGI ZI",Surau TV
+http://119.235.249.58:1935/surautv/live/chunklist_w565930947.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/id-ahsan-tv.jpg" group-title="RELIGI ZI",Ahsan TV
+http://119.82.224.75:1935/live/ahsantv/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-kQGGDnfL8CY/Vafnd6qGqiI/AAAAAAAAFV8/3Ujm7qCd9ds/s200/Tahfidz%2BTV%2Bstreaming%2BOnline.png" group-title="RELIGI ZI",Tahfidz TV
+http://119.235.249.58:1935/tahfidztv/live/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-uLKPyiawEA4/XF5JG2iqFoI/AAAAAAAAPss/PZ3Stj049BAjjM_7nurbSNS7mGS32Oh4wCLcBGAs/s1600/ins.png" group-title="RELIGI ZI",Insan TV
+http://wz.insantv.net/group/ngrp:insantv_mobile/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/528451431171231744/3Cr2Tpkc_400x400.png" group-title="RELIGI ZI",Hadi TV
+http://38.96.175.40:1935/liveTrans//channel2_800k/chunklist_w1577145942.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-sViTodSzdUM/VafFSHeRixI/AAAAAAAAFUk/huc86oFzZW0/s1600/Madani%2BTV%2Bstreaming%2Bonline..png" group-title="RELIGI ZI",Madani TV
+http://stream.asianastream.com:1935/live/ngrp:madanitv_all/playlist.m3u8
+ 
+
+ 
+ 
+
+
+
+######################MUSIC ZI##############################
+
+#EXTINF:-1 tvg-logo="https://www.freepnglogos.com/uploads/mtv-png-logo/mtv-music-television-png-logo-7.png" group-title="MUSIC ZI",MTV
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/1/1-music-channel-logo-FB300DCF9A-seeklogo.com.png" group-title="MUSIC ZI", 1 Music Channel
+https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-lovgo="https://upload.wikimedia.org/wikipedia/commons/a/ae/Logo-m2o-plain-nero.jpg" group-title="MUSIC ZI",M2O
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/889163988763803648/dbbT96SS_400x400.jpg" group-title="MUSIC ZI",BOX hits
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-r3xE1BRbuQU/VvgP6X23G3I/AAAAAAAAE30/icJuA7j197wIfWKx5KZSPo_rOlQQw_lhwCPcB/s1600/0111e35c6a7f54160f1f395bf5cebb82.png" group-title="MUSIC ZI",Music TOP
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.imgbin.com/2/11/14/imgbin-melody-hits-television-channel-music-kamineni-srinivas-KtBkH6vaUCQjPFR1SJCiTGM6A.jpg" group-title="MUSIC ZI", Hit Music Channel
+http://hitmusic.hu/hitmusic.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s25210/images/bannerx.jpg?t=636444567802000000" group-title="MUSIC ZI",KRAL POP
+http://bqgsd19q.rocketcdn.com/kralpop_720/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d1/Karaoke_channel_id.png" group-title="MUSIC ZI", KARAOKE Channel ID
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:karaokech/chunklist_b2288000.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/Prambors.svg/1200px-Prambors.svg.png" group-title="MUSIC ZI",Prambors Channelz
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(d38de229-8abc-4072-91d4-2c42935f7e3b)/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://i.dlpng.com/static/png/6867383_preview.png" group-title="MUSIC ZI",Music Concert
+https://livetvhooq.akamaized.net:443/f17ef07681bb44069d2e2f376e92e9c0/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573599812~exp=9007200828340803~acl=/f17ef07681bb44069d2e2f376e92e9c0/*/profile_0/chunklist.m3u8*~hmac=10bc23dba3cb21b86ba9ef7ea7eaa63d0e977673c431f0921878deda7b6ad638
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/01/f1/3f/01f13f639d706981a7320648efbe9b1a.png" group-title="MUSIC ZI",B Music Session
+https://livetvhooq.akamaized.net:443/94d7194614e148059bca126206f13321/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573599727~exp=9007200828340718~acl=/94d7194614e148059bca126206f13321/*/profile_0/chunklist.m3u8*~hmac=4e62bad0407e078c42fceb6a3757dc833dd2d0c3b7394304a1c078d093cd2097
+
+
+
+###################################MALAYSIA ZI#################################
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/RTM_HD_Sports.png/220px-RTM_HD_Sports.png" group-title="MALAYSIA ZI",RTM Sport
+https://rtm2mobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/fa/Berita_RTM.png" group-title="MALAYSIA ZI", Berita RTM 
+https://rtmbesmobile.secureswiftcontent.com/Origin03/ngrp:RTM3/chunklist_b2064000.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/RTB_Sukmaindera.png" group-title="MALAYSIA ZI", RTB Sukmaindera
+https://rtb-channel.glue.live/smil:rtb1/chunklist_w1343761972_b2736000_sleng.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/TV_Okey_RTM.png" group-title="MALAYSIA ZI", RTM Okey
+https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b2064000.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/NAURA.png/220px-NAURA.png" group-title="MALAYSIA ZI",Astro Naura
+https://agplayback03.aotg-video.astro.com.my/CH2/master_NAURAGOSHOP4.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Astro_logo_-_Magenta_-_Copy.png/220px-Astro_logo_-_Magenta_-_Copy.png" group-title="MALAYSIA ZI",Astro Go Shop
+http://link.iptvsubscription.org:7899/b38jOh51di61/giMDK3tigh/110178
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/5/5c/NTV_natseven_New.png/96px-NTV_natseven_New.png" group-title="MALAYSIA ZI",RTM TV 7
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/NTV7.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/be/NewlogoTV9_%28Malaysia%29.png/100px-NewlogoTV9_%28Malaysia%29.png" group-title="MALAYSIA ZI",RTM TV9
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/TV9.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.vhv.rs/dpng/d/581-5813427_astro-box-office-bollyone-hd-logo-hd-png.png" group-title="MALAYSIA ZI",BOLLYONE HD
+http://iptvfree1.com:7899/bebianat1/CcJ2v5ssxa/110176
+
+#EXTINF:-1 tvg-logo="https://www.bernama.com/bm/img/bernama.png" group-title="MALAYSIA ZI",BARNAMA NEWS
+http://iptvfree1.com:7899/bebianat1/CcJ2v5ssxa/55437
+
+#EXTINF:-1 tvg-logo="https://www.bernama.com/bm/img/bernama.png" group-title="MALAYSIA ZI",BARNAMA NEWS (Back Up)
+https://fvtv.mywire.org/playlist/taczjrxyg8-0wcjumch0k.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e2/Travel_Channel_HD_Logo.png" group-title="MALAYSIA ZI",TRAVEL CHANNEL HD
+http://iptvfree1.com:7899/bebianat1/CcJ2v5ssxa/55471
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/615px-Food_Network_New_Logo.png" group-title="MALAYSIA ZI",FOOD NETWORK
+http://iptvfree1.com:7899/bebianat1/CcJ2v5ssxa/110240
+
+
+######################################### SINGAPORE#################################
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/kw6RzBdIaSE/maxresdefault.jpg" group-title="SINGAPORE ZI",BTV NEWS
+http://203.176.130.123:8989/live/bayontv1_480k.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.mewatch.sg/image/5166818/16x9/947/533/a6eec7dcb1648300cfbaa9a076b4fce8/fS/channel-8.png" group-title="SINGAPORE ZI",Channel 8
+https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.pngitem.com/pimgs/m/23-237481_channel-5-logo-hd-png-download.png" group-title="SINGAPORE ZI",Channel 5
+https://dlau142f16b92.cloudfront.net/hls/ch5ctv/master02.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/ff/CH_U_2015.png" group-title="SINGAPORE ZI",Channel U
+https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.passiondistribution.com/media/140715/logo_okto.png" group-title="SINGAPORE ZI",Okto New
+https://ddftztnzt6o79.cloudfront.net/hls/oktoctv/master02.m3u8
+
+#EXTINF:-1tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/Suria_logo-01.png" group-title="SINGAPORE ZI",Suria
+https://d11h6a6nhl9kj9.cloudfront.net/hls/suriactv/master02.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/22/Mediacorp_Vasantham.png" group-title="SINGAPORE ZI",Vasantham
+https://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmctv/master02.m3u8
+
+
+
+
+
+#########################################MANDARIN ZI#################################
+#EXTINF:-1 tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/cn-hunan-tv-world.jpg" group-title="MANDARIN ZI",Hunan TV
+http://112.50.243.8/PLTV/88888888/224/3221225827/1.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Teledifus%C3%A3o_de_Macau.png/250px-Teledifus%C3%A3o_de_Macau.png" group-title="MANDARIN ZI",Macau TV 1
+http://live4.tdm.com.mo:80/ch3/_definst_//ch3.live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Teledifus%C3%A3o_de_Macau.png/250px-Teledifus%C3%A3o_de_Macau.png" group-title="MANDARIN ZI",Macau TV 2
+http://live4.tdm.com.mo:80/ch2/_definst_/ch2.live/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-3/C3JSKDXTB.png" group-title="MANDARIN ZI",  CCTV3 FHD
+http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
+#EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/hdcctv05plus/C55JSKDXTB.png" group-title="MANDARIN ZI",  CCTV5+ HD
+http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
+#EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-6/C6JSKDXTB.png" group-title="MANDARIN ZI",  CCTV6 FHD
+http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
+#EXTINF:-1 tvg-logo="http://images.center.bcs.ottcn.com:8080/images/ysten/images/ysten/TV/cctv-8/C8JSKDXTB.png" group-title="MANDARIN ZI",  CCTV8 FHD
+http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png" group-title="MANDARIN ZI",  CHC FHD
+http://ivi.bupt.edu.cn/hls/chchd.m3u8
+#EXTINF:-1 tvg-id="FCT.HK" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png" group-title="MANDARIN ZI",翡翠台                  
+http://61.238.6.49:8000/bysid/1
+#EXTINF:-1 tvg-id="FC2.HK" tvg-logo="https://static.epg.best/hk/TVBJ2.hk.png" group-title="MANDARIN ZI",J2台                  
+http://61.238.6.49:8001/bysid/82
+#EXTINF:-1 tvg-id="MZT.HK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Logo_of_TVB_Pearl.png" group-title="MANDARIN ZI",無綫明珠台(TVB Pearl)
+http://m.567it.com/Pearl.m3u8
+#EXTINF:-1 tvg-id="WXX.HK" tvg-logo="https://plus.tvbanywhere.com/img/logo_tvb_news.png" group-title="MANDARIN ZI",無綫新聞台
+http://livetv.dnsfor.me/channel.10.m3u8
+#EXTINF:-1 tvg-id="WXC.HK" tvg-logo="https://plus.tvbanywhere.com/img/logo_tvb_financial_news.png" group-title="MANDARIN ZI",無綫財經資訊台
+http://livetv.dnsfor.me/channel.11.m3u8
+#EXTINF:-1 tvg-id="XHP.HK" tvg-logo="https://plus.tvbanywhere.com/img/logo_tvb_xing_he_channel.png" group-title="MANDARIN ZI",TVB 星河频道
+http://live5.ocnttv.com:8080/ZZ_xinghe/ZZ_xinghe.m3u8
+#EXTINF:-1 tvg-id="FHX.CN" tvg-logo="http://tv.sason.xyz/logo/fhxg.png" group-title="MANDARIN ZI",鳳凰衛視香港台
+http://220.158.149.28:8180/TV00000000000000000068@HHZT;LIVE
+#EXTINF:-1 tvg-id="V96.HK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/1280px-ViuTVsix-logo.svg.png" group-title="MANDARIN ZI",ViuTVsix
+http://61.238.6.49:8000/bysid/96
+#EXTINF:-1 tvg-id="V99.HK" tvg-logo="https://static.epg.best/hk/ViuTV96.hk.png" group-title="MANDARIN ZI",ViuTV
+http://61.238.6.49:8000/bysid/99
+#EXTINF:-1 tvg-ID="YYL.HK" tvg-logo="http://utvhk.com/maint/images/channel/7ac969f6ec0ff483fcb34b05a257d7d1.png" group-title="MANDARIN ZI",有線綜合娱乐
+http://livetv.dnsfor.me/channel.7.m3u8
+#EXTINF:-1 tvg-ID="YXW.HK" tvg-logo="http://utvhk.com/maint/images/channel/d116ecd633cdbff96b0a91867d4f7f8c.png" group-title="MANDARIN ZI",有線新闻
+http://livetv.dnsfor.me:80/channel.5.m3u8
+#EXTINF:-1 tvg-ID="YCJ.HK" tvg-logo="http://utvhk.com/maint/images/channel/be75ddf0144b7fccdd03bf8016a61f64.png" group-title="MANDARIN ZI",有線財經資訊
+http://livetv.dnsfor.me/channel.6.m3u8
+#EXTINF:-1 tvg-id="KAI.HK" tvg-logo="http://www.hkopentv.com/assets/images/opentv_logo.png" group-title="MANDARIN ZI",香港开電視
+http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+#EXTINF:-1 tvg-id="NFW.CN" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e2/GRT_Southern_STV.png" group-title="MANDARIN ZI",南方衛視
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8
+#EXTINF:-1 tvg-id="NOP.HK" tvg-logo="http://static.epg.best/hk/NowSportsPrime.hk.png" group-title="MANDARIN ZI",Now Sports 精選
+http://teslagram.com/live/channel_630.m3u8
+#EXTINF:-1 tvg-id="NOW.HK" tvg-logo="https://news.now.com/revamp2014/images/logo.png" group-title="MANDARIN ZI",Now新聞
+http://livetv.dnsfor.me:80/channel.4.m3u8
+#EXTINF:-1 tvg-id="HKS.HK" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png" group-title="MANDARIN ZI",香港衛視
+https://30e433a4967c6868ab183a88288bcd03.live.prod.hkatv.com/h1_cbr_lo.m3u8
+#EXTINF:-1 tvg-ID="668.HK" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/b/bf/HKJC_Horse_Racing.jpg" group-title="MANDARIN ZI",赛马直击
+http://liveima.utvlive.top/livehls/MOB-HR/index.m3u8
+#EXTINF:-1 tvg-ID="618.HK" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/f/f5/I-CABLE_Channel18.png" group-title="MANDARIN ZI",有線18台
+http://live.crhoy.ga:8080/fhtv/lianyou2010/17
+#EXTINF:-1 tvg-id="" tvg-logo="https://www.hkatv.com/images/logo.png" group-title="MANDARIN ZI",亞洲電視台
+https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_hi_1080p.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://tv.sason.xyz/logo/rthk31.png" group-title="MANDARIN ZI",港台電視31
+https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://tv.sason.xyz/logo/rthk32.png" group-title="MANDARIN ZI",港台電視32
+https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://mo.heytv.org/wp-content/uploads/2018/12/1-1P5121Q245326.jpg" group-title="MANDARIN ZI",澳視澳門台
+http://live4.tdm.com.mo/ch1/_definst_/ch1.live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/09/TDM-Macau_Sat%C3%A9llite.png" group-title="MANDARIN ZI",澳視MACAU
+http://live4.tdm.com.mo/ch3/_definst_/ch3.live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9d/TDM_Informa%C3%A7%C3%A3o.jpg" group-title="MANDARIN ZI",澳視資訊
+http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="MSW.TW" tvg-logo="https://www.ftv.com.tw/images/Ch_01.png" group-title="MANDARIN ZI",民視
+http://seb.sason.top/ptv/ftv.php?id=ms
+#EXTINF:-1 tvg-id="MS1.TW" tvg-logo="https://www.ftv.com.tw/images/Ch_02.png" group-title="MANDARIN ZI",民視第一
+http://seb.sason.top/ptv/ftv.php?id=dy
+#EXTINF:-1 tvg-id="MST.TW" tvg-logo="https://www.ftv.com.tw/images/Ch_03.png" group-title="MANDARIN ZI",民視台灣
+http://seb.sason.top/ptv/ftv.php?id=tw
+#EXTINF:-1 tvg-id="MSX.TW" tvg-logo="https://www.ftv.com.tw/images/Ch_04.png" group-title="MANDARIN ZI",民視新聞
+http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
+#EXTINF:-1 tvg-id="TSX.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E5%8F%B0%E8%A7%86%E6%96%B0%E9%97%BB.png" group-title="MANDARIN ZI",台視新聞
+http://seb.sason.top/sc/tsxw_fhd.m3u8
+#EXTINF:-1 tvg-id="ZSW.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E4%B8%AD%E8%A7%86.png" group-title="MANDARIN ZI",中視
+http://live5.ocnttv.com:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8
+#EXTINF:-1 tvg-id="ZSX.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E4%B8%AD%E8%A7%86%E6%96%B0%E9%97%BB.png" group-title="MANDARIN ZI",中視新聞
+http://seb.sason.top/sc/zsxw_fhd.m3u8
+#EXTINF:-1 tvg-id="HSW.TW" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6f/CTS_logo.png" group-title="MANDARIN ZI",華視
+http://live5.ocnttv.com:8080/ZZ_huashi/ZZ_huashi.m3u8
+#EXTINF:-1 tvg-id="HSX.TW" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/910.png" group-title="MANDARIN ZI",華視新聞
+http://seb.sason.top/sc/hsxw_fhd.m3u8
+#EXTINF:-1 tvg-id="ZTX.TW" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/908.png" group-title="MANDARIN ZI",中天新聞
+http://live5.ocnttv.com:8080/ZZ_zhongtiannews/ZZ_zhongtiannews.m3u8
+#EXTINF:-1 tvg-id="ZTZ.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiVariety.png" group-title="MANDARIN ZI",中天综合
+http://live5.ocnttv.com:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8
+#EXTINF:-1 tvg-id="ZTL.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiEntertainment.png" group-title="MANDARIN ZI",中天娱乐
+http://live5.ocnttv.com:8080/ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8
+#EXTINF:-1 tvg-id="DLX.TW" tvg-logo="https://img.news.ebc.net.tw/EbcNews/logoes/pc_logo.png" group-title="MANDARIN ZI",東森新聞
+http://live5.ocnttv.com:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
+#EXTINF:-1 tvg-id="DLC.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" group-title="MANDARIN ZI",東森財經新聞
+http://seb.sason.top/sc/dscjxw_fhd.m3u8
+#EXTINF:-1 tvg-id="TBX.TW" tvg-logo="https://poster.starhubgo.com/Linear_channels2/808_1920x1080_HTV.png" group-title="MANDARIN ZI",TVBS新聞
+http://60.199.188.65/HLS/WG_TVBS-N/02.m3u8
+#EXTINF:-1 tvg-id="TBL.TW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fa/Tvbs-logo-42.png" group-title="MANDARIN ZI",TVBS歡樂
+http://220.158.149.28:8180/live/TV00000000000000000079@HHZT
+#EXTINF:-1 tvg-id="SLX.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETNews.png" group-title="MANDARIN ZI",三立新聞
+http://60.199.188.65/HLS/WG_ETTV-N/02.m3u8
+#EXTINF:-1 tvg-id="SLC.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETInews.png" group-title="MANDARIN ZI",三立財經新聞
+http://seb.sason.top/sc/slinews_fhd.m3u8
+#EXTINF:-1 tvg-id="DA1.TW" tvg-logo="http://www.daai.tv/images/logo.png" group-title="MANDARIN ZI",大愛1
+https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+#EXTINF:-1 tvg-id="DA2.TW" tvg-logo="https://www.cns.net.tw/web/upload/20141017171303RmzVY9Z.png" group-title="MANDARIN ZI",大愛2
+https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+#EXTINF:-1 tvg-id="DLD.TW" tvg-logo="http://www.sjtv.com.tw/sjtvlive/views/img/live_web_logo.png" group-title="MANDARIN ZI",信吉電視
+http://220.130.241.203:1935/sjtv/livestream/chunklist_w1048671923.m3u8
+#EXTINF:-1 tvg-id="HZW.TW" tvg-logo="https://www.hwazan.org/statics/images/newhztv_logo.png" group-title="MANDARIN ZI",華藏衛視
+http://118.163.88.61:1935/hwazanlivetv/live.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="RJW.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BeautifulLife.png" group-title="MANDARIN ZI",人間衛視
+https://bcovlive-a.akamaihd.net/a735d612667b460185bd29f9978178bd/ap-northeast-1/6169276188001/profile_2/chunklist.m3u8
+#EXTINF:-1 tvg-id="WXD.TW" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/weixin.png" group-title="MANDARIN ZI",唯心電視
+http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+#EXTINF:-1 tvg-id="FSD.TW" tvg-logo="http://www.fanstv.tw/images/logo.png" group-title="MANDARIN ZI",番薯電視
+http://210.209.3.1/live/C02DD98E-593E-47A8-905C-3B101183A555.m3u8?fmt=x264_500K_ts&cpid=admin
+
+#EXTINF:-1 tvg-id="XKW.CN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/XingXong.svg/300px-XingXong.svg.png" group-title="MANDARIN ZI",星空卫视
+http://103.47.132.164/PLTV/88888888/224/3221227263/index.m3u8
+#EXTINF:-1 tvg-id="AHW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="MANDARIN ZI",安徽卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225727/index.m3u8
+#EXTINF:-1 tvg-id="DFW.CN" tvg-logo="https://poster.starhubgo.com/Linear_channels2/832_1920x1080_HTV.png" group-title="MANDARIN ZI",东方卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
+#EXTINF:-1 tvg-id="GDW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="MANDARIN ZI",广东卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225736/index.m3u8
+#EXTINF:-1 tvg-id="HNW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="MANDARIN ZI",湖南卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
+#EXTINF:-1 tvg-id="JSW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="MANDARIN ZI",江苏卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8
+#EXTINF:-1 tvg-id="ZJW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="MANDARIN ZI",浙江卫视
+http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
+#EXTINF:-1 tvg-id="CT1.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="MANDARIN ZI",CCTV-1 综合
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225710/index.m3u8
+#EXTINF:-1 tvg-id="CT2.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="MANDARIN ZI",CCTV-2 财经
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225747/index.m3u8
+#EXTINF:-1 tvg-id="CT3.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="MANDARIN ZI",CCTV-3 文艺
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225606/index.m3u8
+#EXTINF:-1 tvg-id="CT4.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="MANDARIN ZI",CCTV-4 中文国际
+http://39.134.157.203/PLTV/88888888/224/3221225641/index.m3u8
+#EXTINF:-1 tvg-id="CT6.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="MANDARIN ZI",CCTV-6 电影
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225607/index.m3u8
+#EXTINF:-1 tvg-id="CT7.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="MANDARIN ZI",CCTV-7 军事
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
+#EXTINF:-1 tvg-id="CT8.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="MANDARIN ZI",CCTV-8 电视剧
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225608/index.m3u8
+#EXTINF:-1 tvg-id="CT9.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="MANDARIN ZI",CCTV-9 纪录
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
+#EXTINF:-1 tvg-id="C10.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="MANDARIN ZI",CCTV-10 科教
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
+#EXTINF:-1 tvg-id="C11.CN" tvg-id="CT1.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="MANDARIN ZI",CCTV-11 戏曲
+http://39.134.157.203/PLTV/88888888/224/3221225622/index.m3u8
+#EXTINF:-1 tvg-id="C12.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="MANDARIN ZI",CCTV-12 社会与法
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
+#EXTINF:-1 tvg-id="C13.CN" tvg-id="CT1.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="MANDARIN ZI",CCTV-13 新闻
+http://101.71.255.229:6610/zjhs/2/10077/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1 tvg-id="C14.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="MANDARIN ZI",CCTV-14 少儿
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
+#EXTINF:-1 tvg-id="C15.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="MANDARIN ZI",CCTV-15 音乐
+http://39.134.157.199/PLTV/88888888/224/3221225610/index.m3u8
+#EXTINF:-1 tvg-id="C17.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="MANDARIN ZI",CCTV-17 农业农村
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
+#EXTINF:-1 tvg-id="BTV.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="MANDARIN ZI",北京卫视
+http://39.130.206.213:6410/gitv_live/BTV-1/BTV-1.m3u8 
+#EXTINF:-1 tvg-id="BTW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png" group-title="MANDARIN ZI",兵团卫视
+http://39.130.206.213:6410/gitv_live/G_BINGTUAN/G_BINGTUAN.m3u8 
+#EXTINF:-1 tvg-id="CQW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="MANDARIN ZI",重庆卫视
+http://39.130.206.213:6410/gitv_live/G_CHONGQING-HD/G_CHONGQING-HD.m3u8 
+#EXTINF:-1 tvg-id="DFN.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="MANDARIN ZI",东南卫视
+http://39.130.206.213:6410/gitv_live/G_DONGNAN-HD/G_DONGNAN-HD.m3u8
+#EXTINF:-1 tvg-id="GZW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="MANDARIN ZI",贵州卫视
+http://39.130.206.213:6410/gitv_live/G_GUIZHOU-HD/G_GUIZHOU-HD.m3u8 
+#EXTINF:-1 tvg-id="GSW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="MANDARIN ZI",甘肃卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8
+#EXTINF:-1 tvg-id="GXW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="MANDARIN ZI",广西卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225624/index.m3u8
+#EXTINF:-1 tvg-id="HAI.CN" tvg-logo="http://tc.hnntv.cn/public/imgs/wangshi1.png" group-title="MANDARIN ZI",海南卫视
+http://tv.sason.xyz/proxy/hain.php?id=19
+#EXTINF:-1 tvg-id="HBW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="MANDARIN ZI",河北卫视
+http://weblive.hebtv.com/live/hbwsbq_bq/index.m3u8
+#EXTINF:-1 tvg-id="HNX.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="MANDARIN ZI",河南卫视
+http://39.130.206.213:6410/gitv_live/HENAN/HENAN.m3u8
+#EXTINF:-1 tvg-id="HLJ.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="MANDARIN ZI",黑龙江卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225640/index.m3u8
+#EXTINF:-1 tvg-id="HUB.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="MANDARIN ZI",湖北卫视
+http://39.135.253.153/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226124/2.m3u8
+#EXTINF:-1 tvg-id="JLW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="MANDARIN ZI",吉林卫视
+http://stream4.jlntv.cn/test2/sd/live.m3u8
+#EXTINF:-1 tvg-id="JXW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="MANDARIN ZI",江西卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225615/index.m3u8
+#EXTINF:-1 tvg-id="LNW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="MANDARIN ZI",辽宁卫视
+http://39.135.253.153/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226157/3.m3u8
+#EXTINF:-1 tvg-id="NNN.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="MANDARIN ZI",内蒙古卫视
+http://live.m2oplus.nmtv.cn/1/playlist.m3u8
+#EXTINF:-1 tvg-id="NXW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png" group-title="MANDARIN ZI",宁夏卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225632/index.m3u8
+#EXTINF:-1 tvg-id="QHW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="MANDARIN ZI",青海卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8
+#EXTINF:-1 tvg-id="SIC.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="MANDARIN ZI",四川卫视
+http://39.130.206.213:6410/gitv_live/G_SICHUAN-HD/G_SICHUAN-HD.m3u8 
+#EXTINF:-1 tvg-id="SZW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="MANDARIN ZI",深圳卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8
+#EXTINF:-1 tvg-id="SDW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="MANDARIN ZI",山东卫视 
+http://39.130.206.213:6410/gitv_live/G_SHANDONG-HD/G_SHANDONG-HD.m3u8 
+#EXTINF:-1 tvg-id="SXW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title="MANDARIN ZI",山西卫视
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225624/index.m3u8
+#EXTINF:-1 tvg-id="SXS.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="MANDARIN ZI",陕西卫视
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225896/1.m3u8
+#EXTINF:-1 tvg-id="TJW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="MANDARIN ZI",天津卫视
+http://39.130.206.213:6410/gitv_live/G_TIANJIN-HD/G_TIANJIN-HD.m3u8 
+#EXTINF:-1 tvg-id="YNW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="MANDARIN ZI",云南卫视
+http://39.130.206.213:6410/gitv_live/G_YUNNAN-HD/G_YUNNAN-HD.m3u8
+#EXTINF:-1 tvg-id="XZW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="MANDARIN ZI",西藏卫视
+http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225900/1.m3u8
+#EXTINF:-1 tvg-id="XJW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="MANDARIN ZI",新疆卫视
+http://tv.boye.ml/iptv/xjtv.php?id=1
+#EXTINF:-1 tvg-id="XMW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xiamen.png" group-title="MANDARIN ZI",厦门卫视
+https://live1.kxm.xmtv.cn/xmtv/tvzb/live.m3u8
+#EXTINF:-1 tvg-id="YBW.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/YANBIAN1.png" group-title="MANDARIN ZI",延边卫视
+http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8
+
+
+
+######################################### KOREA ZI#################################
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/0a/Kplus_logo_%281%29.png" group-title="KOREA ZI",K+
+http://210.210.155.35/uq2663/h/h08/01.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/detail/215-2152674_cbs-tv-logo-png.png" group-title="KOREA ZI",CBS TV
+http://cbs-live.gscdn.com:80/cbs-live//cbs-live.stream/chunklist_w203939631.m3u8
+
+#EXTINF:-1 tvg-logo="https://global.ebs.co.kr/global/img/sub/Channels_ebs1.png" group-title="KOREA ZI",Korea EBS 1
+http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://global.ebs.co.kr/global/img/sub/Channels_IPTV_01.png" group-title="KOREA ZI",Korea EBS+ 1
+http://ebsonair.ebs.co.kr:1935/plus1tablet500k/tablet500k/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://global.ebs.co.kr/global/img/sub/Channels_IPTV_02.png" group-title="KOREA ZI",Korea EBS+ 2
+http://ebsonair.ebs.co.kr:1935/plus2tablet500k/tablet500k/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/TV_Chosun_logo_%28hangul%29.svg/1280px-TV_Chosun_logo_%28hangul%29.svg.png" group-title="KOREA ZI",Korea TV CHOSUN
+http://live.chosun.gscdn.com/live/tvchosun1.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Seoul_Broadcasting_System_logo.svg/1200px-Seoul_Broadcasting_System_logo.svg.png" group-title="KOREA ZI",Korea KBC SBS
+http://221.157.125.232:1935/live/kbctv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Seoul_Broadcasting_System_logo.svg/1200px-Seoul_Broadcasting_System_logo.svg.png" group-title="KOREA ZI",Korea TJB SBS
+http://1.245.74.5:1935/live/tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://global.ebs.co.kr/global/img/sub/Channels_IPTV_04.png" group-title="KOREA ZI",Korea EBS KIDS
+http://ebsonair.ebs.co.kr:1935/ebsufamilypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/ab/SBS_CI_1991_-_1994.png" group-title="KOREA ZI",Korea G1 SBS
+http://smart.igtb.co.kr:1935/live/stream.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a9/Channels_IPTV_03.png" group-title="KOREA ZI",EBS English
+https://ebsonair.ebs.co.kr/plus3familypc/familypc1m/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/YTN_Logo.png" group-title="KOREA ZI",YTN
+http://slive.ytn.co.kr:1935/dmb/ydlive_20140419_1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo=" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/YTN_%EC%82%AC%EC%9D%B4%EC%96%B8%EC%8A%A4_%EB%A1%9C%EA%B3%A0_%EB%89%B4.png" group-title="KOREA ZI",YTN Science
+http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
+
+
+
+################United Kingdom ZI#######################################
+#EXTINF:-1 tvg-id="BBN.UK" tvg-logo="http://static.epg.best/gb/BBCNews.uk.png" group-title="UNITED KINGDOM ZI",BBC News
+https://edge-1192-ch-gv.filmon.com/live/27.high.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="BBL.UK" tvg-logo="https://static.epg.best/pl/BBCLifestyle.pl.png" group-title="UNITED KINGDOM ZI",BBC Lifestyle
+https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="BXH.UK" tvg-logo="http://static.epg.best/gb/BoxHits.uk.png" group-title="UNITED KINGDOM ZI",Box Hits
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a//boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
+#EXTINF:-1 tvg-id="IT1.UK" tvg-logo="http://static.epg.best/gb/ITV1.uk.png" group-title="UNITED KINGDOM ZI",ITV
+http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
+#EXTINF:-1 tvg-id="IT2.UK" tvg-logo="http://static.epg.best/gb/ITV2.uk.png" group-title="UNITED KINGDOM ZI",ITV2
+http://51.52.156.22:8888/http/005
+#EXTINF:-1 tvg-id="IT3.UK" tvg-logo="http://static.epg.best/gb/ITV3.uk.png" group-title="UNITED KINGDOM ZI",ITV3
+http://51.52.156.22:8888/http/006
+#EXTINF:-1 tvg-id="IT4.UK" tvg-logo="http://static.epg.best/gb/ITV4.uk.png" group-title="UNITED KINGDOM ZI",ITV4
+http://51.52.156.22:8888/http/007
+#EXTINF:-1 tvg-id="CTV.UK" tvg-logo="https://static.epg.best/gb/CITV.uk.png" group-title="UNITED KINGDOM ZI",CITV
+http://51.52.156.22:8888/http/001
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/gb/4Music.uk.png" group-title="UNITED KINGDOM ZI",4 Music
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,4music-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/4music/
+#EXTINF:-1 tvg-id="FOC.UK" tvg-logo="https://static.epg.best/gb/ForcesTV.uk.png" group-title="UNITED KINGDOM ZI",Forces TV
+https://edge-1192-ch-gv.filmon.com/live/3386.high.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="KIS.UK" tvg-logo="http://static.epg.best/gb/KissTV.uk.png" group-title="UNITED KINGDOM ZI",Kiss
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kiss-inapp.m3u8?yo.up=http%3a//boxtv-origin-elb.cds1.yospace.com/uploads/kiss/
+#EXTINF:-1 tvg-id="KER.UK" tvg-logo="http://static.epg.best/gb/Kerrang.uk.png" group-title="UNITED KINGDOM ZI",Kerrang!
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,kerrang-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/kerrang/
+#EXTINF:-1 tvg-id="MAG.UK" tvg-logo="http://static.epg.best/gb/Magic.uk.png" group-title="UNITED KINGDOM ZI",Magic
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,magic-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/magic/
+#EXTINF:-1 tvg-id="RTN.IE" tvg-logo="http://static.epg.best/ie/RTENewsNow.ie.png" group-title="UNITED KINGDOM ZI",RTE News Now
+https://live.rte.ie/live/a/channel3/news.isml/news-video=144960.m3u8
+#EXTINF:-1 tvg-id="SPO.UK" tvg-logo="http://spotlighttv.co.uk/wp-content/uploads/2019/06/cropped-Cropped-Spotlight-Logo-1.jpg" group-title="UNITED KINGDOM ZI",Spotlight TV
+https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-spotlighttv-hsslive-25f-SD/chunklist.m3u8
+#EXTINF:-1 tvg-id="TG4.IE" tvg-logo="https://static.epg.best/ie/TG4.ie.png" group-title="UNITED KINGDOM ZI",TG4
+http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
+#EXTINF:-1 tvg-id="TBX.UK" tvg-logo="http://static.epg.best/gb/TheBox.uk.png" group-title="UNITED KINGDOM ZI",The Box
+http://csm-e.tm.yospace.com/csm/extlive/boxplus01,thebox-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
+
+
+
+##################################UNITED STATES ZI#######################################
+#EXTINF:-1 tvg-ID="ACC.US" tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2016/07/acc_network.png" group-title="UNITED STATES ZI",ACCN
+https://e10.julinewr.xyz/ingestnb4s/accn/f.m3u8|Referer=https://espn-live.stream/stream/45458.html
+#EXTINF:-1 tvg-ID="AHC.US" tvg-logo="https://static.epg.best/us/AmericanHeroesChannel.us.png" group-title="UNITED STATES ZI",AHC
+https://e10.julinewr.xyz/ingestnb4s/ahc/f.m3u8|Referer=https://espn-live.stream/stream/70077.html
+#EXTINF:-1 tvg-ID="BET.US" tvg-logo="https://static.epg.best/us/BET.us.png" group-title="UNITED STATES ZI",BET
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca670f6593a5d78f0e85aed/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=174&deviceId=5ca670f6593a5d78f0e85aed&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-ID="BEH.US" tvg-logo="https://static.epg.best/us/BetHer.us.png" group-title="UNITED STATES ZI",BET Her
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca670f6593a5d78f0e85aed/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=174&deviceId=5ca670f6593a5d78f0e85aed&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="BAE.Asia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Rtl_cbs_entertainment_hd.png/400px-Rtl_cbs_entertainment_hd.png" group-title="UNITED STATES ZI",Blue Ant Entertainment
+https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="BAX.Asia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Blue_ant_extreme_logo.png/220px-Blue_ant_extreme_logo.png" group-title="UNITED STATES ZI",Blue Ant Extreme
+https://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="BIT.US" tvg-logo="https://thebritishtvplace.com/wp-content/uploads/2019/07/British-TV-on-Pluto-TV.png" group-title="UNITED STATES ZI",British TV
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b68a18823ecb93393cba2f1/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=154&deviceId=5b68a18823ecb93393cba2f1&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="BTN.US" tvg-logo="https://static.epg.best/us/BigTenNetwork.us.png" group-title="UNITED STATES ZI",BTN
+https://e10.julinewr.xyz/ingestnb4s/btn/d.m3u8|Referer=https://espn-live.stream/stream/45629.html
+#EXTINF:-1 tvg-ID="BUZ.US" tvg-logo="https://static.epg.best/us/BuzzrTV.us.png" group-title="UNITED STATES ZI",Buzzr
+https://buzzr.global.ssl.fastly.net/out/u/buzzr_hls_8.m3u8
+#EXTINF:-1 tvg-ID="CBC.CA" tvg-logo="https://static.epg.best/ca/CBC.ca.png" group-title="UNITED STATES ZI",CBC
+https://cbclivedai5-i.akamaihd.net/hls/live/567235/event2/CBOT/master5.m3u8|X-Forwarded-For=24.37.42.20
+#EXTINF:-1 tvg-ID="CBC.News" tvg-logo="https://static.epg.best/ca/CBCNews.ca.png" group-title="UNITED STATES ZI",CBC News
+https://livecbcdai-i.akamaihd.net/hls/live/567245/event2/CBCNN/master6.m3u8|X-Forwarded-For=24.37.42.20
+#EXTINF:-1 tvg-id="CMT.US" tvg-logo="https://static.epg.best/us/CMT.us.png" group-title="UNITED STATES ZI",CMT
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcc42446750e200093b15e2/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=182&deviceId=5dcc42446750e200093b15e2&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="COU.US" tvg-logo="http://www.courttv.com/wp-content/themes/courttv/assets/images/logo.png" group-title="UNITED STATES ZI",Court TV
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dae0b4841a7d0000938ddbd/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=395&deviceId=5dae0b4841a7d0000938ddbd&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="CBSNY.US" tvg-logo="http://upload.wikimedia.org/wikipedia/commons/f/f9/CBSN_channel_Logo.png" group-title="UNITED STATES ZI",CSBN New York
+https://cbsn-ny-cedexis.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
+#EXTINF:-1 tvg-id="CBSLA.US" tvg-logo="http://losangeles.cbslocal.com/wp-content/uploads/sites/14984641/2019/09/60h-LA-white-stacked.png" group-title="UNITED STATES ZI",CBSN Los Angeles
+https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8?iu=/4128/CBS.LA.OTT
+#EXTINF:-1 tvg-ID="CBSQ.US" tvg-logo="https://wwwimage-secure.cbsstatic.com/base/files/blog/87fdad6e1b37da4a_cbs_sports_hq_1920.jpg" group-title="UNITED STATES ZI",CBS Sports HQ
+https://sportshq-mediapackage-cedexis.cbsaavideo.com/out/v1/be87d7783e5c4270a5830ea5d1164850/desktop_7.m3u8
+#EXTINF:-1 tvg-ID="CHD.US" tvg-logo="http://miro.medium.com/max/2656/1*DhgWWj7DTZ-kD2zWhBBwAg.png" group-title="UNITED STATES ZI",Cheddar
+https://livestream.chdrstatic.com/b93e5b0d43ea306310a379971e384964acbe4990ce193c0bd50078275a9a657d/cheddar-42620/cheddarweblive/cheddar/primary/4.m3u8
+#EXTINF:-1 tvg-ID="CAS.US" tvg-logo="http://www.classicartsshowcase.org/cas/wp-content/themes/cas/images/logo.png" group-title="UNITED STATES ZI",Classic Arts Showcase
+https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
+#EXTINF:-1 tvg-ID="CPA.CA" tvg-logo="https://static.epg.best/ca/CPACOttawaEn.ca.png" group-title="UNITED STATES ZI",CPAC
+https://bcsecurelivehls-i.akamaihd.net/hls/live/680602/1242843915001_1//Assets_1594900651852/Layer2_master.m3u8
+#EXTINF:-1 tvg-id="DAB.US" tvg-logo="http://static.epg.best/us/WKMGDT2.us.png" group-title="UNITED STATES ZI",DABL
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ef0fbed39ff730007383a69/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=614&deviceId=5ef0fbed39ff730007383a69&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-id="ESN.US" tvg-logo="https://static.epg.best/us/ESPNNews.us.png" group-title="UNITED STATES ZI",ESPN News
+https://e10.julinewr.xyz/ingestnb4s/espn_news/f.m3u8|Referer=https://espn-live.stream/stream/45458.html
+#EXTINF:-1 tvg-id="ESU.US" tvg-logo="https://static.epg.best/us/ESPNU.us.png" group-title="UNITED STATES ZI",ESPN U
+https://e10.julinewr.xyz/ingestnb4s/espn_u/d.m3u8|Referer=https://espn-live.stream/stream/45457.html
+#EXTINF:-1 tvg-id="Fox.Asia" tvg-logo="https://static.epg.best/es/Fox.es.png" group-title="UNITED STATES ZI",Fox
+https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="FXL.Asia" tvg-logo="https://static.epg.best/in/FOXLife.in.png" group-title="UNITED STATES ZI",Fox Life
+https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="FTV.Int" tvg-logo="https://www.fashiontv.com/wp-content/uploads/2017/01/fashuiontvlogo-horisontal-300x90.png" group-title="UNITED STATES ZI",Fashion TV
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-ID="FON.UK" tvg-logo="http://static.epg.best/bg/FoodNetwork.bg.png" group-title="UNITED STATES ZI",Food Network
+http://5.135.92.133:52841/out/u/502_1.m3u8
+#EXTINF:-1 tvg-ID="FSP.US" tvg-logo="http://i.imgur.com/PH1Gg4p.png" group-title="UNITED STATES ZI",Free Speech TV
+https://edge.free-speech-tv-live.top.comcast.net/out/u/fstv.m3u8
+#EXTINF:-1 tvg-ID="GLN.CA" tvg-logo="https://s0.wp.com/wp-content/themes/vip/shaw-globalnews/_img/logos/news_2x.png" group-title="UNITED STATES ZI",Global News
+https://da7sdtkzly6qj.cloudfront.net/out/v1/b317f6c10f2e493993bd2b5314df1c7c/index_1.m3u8
+#EXTINF:-1 tvg-id="ICI.CA" tvg-logo="https://static.epg.best/ca/ICITelevisionMontreal.ca.png" group-title="UNITED STATES ZI",ICI Tele
+https://rcavlive-dai.akamaized.net/hls/live/696614/cancbftprem/master_5000.m3u8|X-Forwarded-For=24.37.42.200
+#EXTINF:-1 tvg-ID="ICI.News" tvg-logo="https://static.epg.best/ca/RDINews.ca.png" group-title="UNITED STATES ZI",ICI RDI
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master_2500.m3u8
+#EXTINF:-1 tvg-id="MLS.US" tvg-logo="https://worldsoccertalk.com/wp-content/uploads/2020/03/mls-tv-ratings-opening-weekend.jpg" group-title="UNITED STATES ZI",MLS TV
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=d1634607-2892-447a-b316-17a106f905fb&deviceId=9f228953-21cb-4b82-a393-dd32d047379f&deviceVersion=76.0.3809.132&appVersion=2.7.4-9a7fc53e0c1da468e3c566c3f53e98a36ca1f97b&deviceDNT=0&userId=&advertisingId=&deviceLat=45.4994&deviceLon=-73.5703&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&serverSideAds=true
+#EXTINF:-1 tvg-ID="MAV.US" tvg-logo="https://www.mavtv.com/assets/images/mavtv_logo.png" group-title="UNITED STATES ZI",MavTV
+https://mavtv-1.sinclair.wurl.com/manifest/2000.m3u8
+#EXTINF:-1 tvg-id="MTV.US" tvg-logo="https://static.epg.best/il/MTV.il.png" group-title="UNITED STATES ZI",MTV
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=178&deviceId=5ca672f515a62078d2ec0ad2&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1 tvg-ID="NMA.US" tvg-logo="http://www.newsmaxtv.com/CMSScripts/NewsmaxTV/images/logos/Newsmax-TV-White.png" group-title="UNITED STATES ZI",Newsmax
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_1080.m3u8
+#EXTINF:-1 tvg-ID="OUT.US" tvg-logo="https://static.epg.best/gb/OutdoorChannel.uk.png" group-title="UNITED STATES ZI",Outdoor Channel
+https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-ID="PBS.US" tvg-logo="https://static.epg.best/us/PBSWLIW21.us.png" group-title="UNITED STATES ZI",PBS 
+https://ssc2.wpsu.psu.edu/WPSU_LLStream/ngrp:WPSU1_720max/chunklist.m3u8
+#EXTINF:-1 tvg-id="Peo.US" tvg-logo="https://poster.starhubgo.com/Linear_channels2/440_1920x1080_HTV.png" group-title="UNITED STATES ZI",People TV
+https://a.jsrdn.com/broadcast/b5d2k0x/playlist720p.m3u8
+#EXTINF:-1 tvg-ID="POP.US" tvg-logo="https://static.epg.best/us/PopTV.us.png" group-title="UNITED STATES ZI",Pop
+https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8
+#EXTINF:-1 tvg-id="SEC.US" tvg-logo="https://static.epg.best/us/SECNetwork.us.png" group-title="UNITED STATES ZI",SEC Network
+https://e10.julinewr.xyz/ingestnb4s/sec_network/f.m3u8|Referer=https://espn-live.stream/stream/46070.html
+#EXTINF:-1 tvg-id="STA.US" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/Stadium_TV_network_logo.png" group-title="UNITED STATES ZI",Stadium Network
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master_2000k.m3u8
+#EXTINF:-1 tvg-ID="TBW.US" tvg-logo="https://static.epg.best/us/TBS.us.png" group-title="UNITED STATES ZI",TBS West
+https://tve-live-lln.warnermediacdn.com/hls/live/572097/tbsw/aes_slate/VIDEO_0_3564000.m3u8|X-Forwarded-For=174.224.6.160
+#EXTINF:-1 tvg-ID="TBE.US" tvg-logo="https://static.epg.best/us/TBS.us.png" group-title="UNITED STATES ZI",TBS East
+https://tve-live-lln.warnermediacdn.com/hls/live/572094/tbse/aes_slate/VIDEO_0_3564000.m3u8|X-Forwarded-For=209.239.112.104
+#EXTINF:-1 tvg-ID="TNT.US" tvg-logo="https://static.epg.best/us/TNT.us.png" group-title="UNITED STATES ZI",TNT
+https://tve-live-lln.warnermediacdn.com/hls/live/572089/tnte/aes_slate/VIDEO_0_3564000.m3u8|X-Forwarded-For=174.224.6.160
+#EXTINF:-1 tvg-ID="TVL.US" tvg-logo="https://static.epg.best/us/TVLandEast.us.png" group-title="UNITED STATES ZI",TV Land
+https://e10.julinewr.xyz/ingestnb4s/tvland/f.m3u8|Referer=https://espn-live.stream/stream/68073.html
+#EXTINF:-1 tvg-ID="WEA.US" tvg-logo="http://i.imgur.com/D4vJyy9.png" group-title="UNITED STATES ZI",Weather Channel
+https://weather-lh.akamaihd.net/i/twc_1@92006/index_2400_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="WEN.US" tvg-logo="http://www.weathernationtv.com/app/uploads/WNTV.jpg" group-title="UNITED STATES ZI",WeatherNation TV
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751.m3u8
+#EXTINF:-1 tvg-ID="VH1.US" tvg-logo="https://static.epg.best/us/VH1.us.png" group-title="UNITED STATES ZI",VH1
+https://e10.julinewr.xyz/ingestnb4s/vh1/f.m3u8|Referer=https://espn-live.stream/stream/68075.html
+#EXTINF:-1 tvg-ID="ZLI.US" tvg-logo="https://www.zliving.com/wp-content/uploads/2018/02/Zliving-Logo.png" group-title="UNITED STATES ZI",Z Living
+https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r_prod/mono.m3u8
+
+
+
+
+
+######################################### KIDS ZI#################################
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/45/cd/a5/45cda518e9ff73b37b50010c1f262d4f.png" group-title="KIDS ZI",Pawpatrol
+http://harber.xyz/stream/yt-pawpatrol-milik-harberkuy.m3u8
+
+#EXTINF:-1 tvg-logo="https://officialpsds.com/imageview/7x/3m/7x3m8x_large.png" group-title="KIDS ZI",Spongebob
+https://harber.xyz/stream/yt-spongebob-milik-harberkuy.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/bb/9f/f3/bb9ff3e4c451fc628878554f74502b1b.png" group-title="KIDS ZI",Oddbods
+https://harber.xyz/stream/yt-oddbods-milik-harberkuy.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png" group-title="KIDS ZI",Aniplus ID
+http://harber.xyz/stream/usee-aniplus-milik-harberkuy.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.ucipliban.org/fr/wp-content/uploads/2018/07/sat7kids.jpg" group-title="KIDS ZI",SA7 KIDS TV
+http://brhn.xyz/useetvgo/m3u/aniplus.m3u8
+
+#EXTINF:-1 tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/1527562168_artcard-miao-mi.jpg" group-title="KIDS ZI",Miao Mi
+https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
+
+
+
+
+
+
+
+######################################### BEINSPORT ARAB#################################
+
+#EXTINF:-1 tvg-logo="https://i.ya-webdesign.com/images/bein-sports-png-5.png" group-title="BEINSPORT ARAB",Sewaktu- Waktu Channel OFF
+http://iptv4k.myddns.me:25461/star7arab.com/youssefalemdar/21
+http://160.119.77.116:8081/iptv/fr-bein1hd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ya-webdesign.com/images/bein-sports-png-5.png" group-title="BEINSPORT ARAB",beIN Sports 1 
+http://iptv4k.myddns.me:25461/star7arab.com/youssefalemdar/21
+http://160.119.77.116:8081/iptv/fr-bein1hd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/6/6591.1491350441.png" group-title="BEINSPORT ARAB",beIN Sports 2 
+http://iptv4k.myddns.me:25461/star7arab.com/youssefalemdar/23
+http://160.119.77.116:8081/iptv/fr-bein2hd.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://apps.beinsports.com/dev/au/images/3.png" group-title="BEINSPORT ARAB",beIN Sports 3 
+http://iptv4k.myddns.me:25461/star7arab.com/youssefalemdar/26
+http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/6124/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-3ZYY2Wn-MrQ/WlPVrBH5oZI/AAAAAAAAAcY/mvkcDlGEGeUsqtbSEy-cLPcqWTdg2jFxwCLcBGAs/s1600/4-HD.png" group-title="BEINSPORT ARAB",beIN Sports 4 
+http://iptv4k.myddns.me:25461/star7arab.com/youssefalemdar/28
+http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/6125/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-UIXuwEtdEN0/WtsGmELRo9I/AAAAAAAAAFE/7YlhUZgTqnch2hpy-YeYWmd-Woo_mOwIwCPcBGAYYCw/s1600/5-HD.png" group-title="BEINSPORT ARAB",beIN Sports 5
+http://iptv4k.myddns.me:25461/star7arab.com/youssefalemdar/32
+http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/6126/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://touneselkhadra.com/wp-content/uploads/2019/12/6.png" group-title="BEINSPORT ARAB",beIN Sports 6 
+http://iptv4k.myddns.me:25461/star7arab.com/youssefalemdar/32
+http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/6127/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/82/92/a7/8292a7432843f438b976de2e2c46772e.png" group-title="BEINSPORT ARAB",beIN Sports 7 
+http://iptv4k.myddns.me:25461/star7arab.com/youssefalemdar/35
+http://bdfd3dc8.cbilant.com/iptv/UFCRE5D6XB7EK4/6128/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-wDkIu3BI-Lw/WlPX5QsUJAI/AAAAAAAAAco/hX_u_RKEjTw5c7gGLwPLcgZc9P6nGeOegCLcBGAs/s1600/8-HD.png" group-title="BEINSPORT ARAB",beIN Sports 8 
+http://fariszah.myq-see.com:8008/live/demo1/star7arab.com/21648.ts
+
+#EXTINF:-1 tvg-logo="https://www.mewatch.sg/image/10607100/16x9/947/533/da3a5ad4a38f3d95485ad43229e1bc53/mr/18th-asian-games-ch06.png" group-title="BEINSPORT ARAB",beIN Sports 9  
+http://fariszah.myq-see.com:8008/live/demo1/star7arab.com/21649.ts
+
+#EXTINF:-1 tvg-logo="http://alfabass-tvfree.do.am/_si/0/03207027.png" group-title="BEINSPORT ARAB",beIN Sports 10 
+http://iptvtree.net:8080/STBEMU/ONMAC/109
+
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/mena/wp-content/uploads/sites/3/2019/06/sports.png" group-title="BEINSPORT ARAB",beIN Sports 11 
+http://iptvtree.net:8080/STBEMU/ONMAC/110
+
+#EXTINF:-1 tvg-logo="https://cdn.bein.net/mena/wp-content/uploads/sites/3/2019/06/sports.png" group-title="BEINSPORT ARAB",beIN Sports 12 
+http://kstv.xyz:8080/2Z81kXHbqF/4670605874/15655
+
+
+
+#########################################SPECIAL#################################
+http://link.iptvsubscription.org:7899/giMDK3tigh/giMDK3tigh/110255
+
+#EXTINF:-1 tvg-id="FOXSportsHD.MACAN" tvg-name="FOXSportsHD.MACAN" group-title="SPECIAL" tvg-logo="https://zichannels.xyz/img/fox_sports_1.png", FOX Sport 1
+https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="FOXSports2.MACAN" tvg-name="FOXSportsHD.MACAN" group-title="SPECIAL" tvg-logo="https://macan.network/img/fox_sports_2.jpg", FOX Sport 2
+https://www.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="FOXSports3.MACAN" tvg-name="FOXSportsHD.MACAN" group-title="SPECIAL" tvg-logo="https://zichannels.xyz/img/fox_sports_3.png", FOX Sport 3
+https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Moto_Gp_logo.svg/1280px-Moto_Gp_logo.svg.png" group-title="SPECIAL",MOTO GP LIVE
+http://imnotdead.live:8080/ujfO3orYAc/TIGfvmax4O/64967
+
+#EXTINF:-1 tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png" group-title="SPECIAL",BEIN SPORT EXTRA
+https://fvtv.mywire.org/playlist/bv6thk0ahh-g3zhk99v9q.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="SPECIAL",MY: ASTRO ASSP4 HD
+http://iptvtree.net:8080/STBEMU/a06e8f29ad/246505
+http://iptvtree.net:8080/14215/0ecdeba8/197051
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="SPECIAL",MY: ASTRO ASSP EPL
+http://iptvworld.nl:2095/8jS4r9MBuN/LZnmOdC7ik/85688
+http://iptvtree.net:8080/STBEMU/a06e8f29ad/246504
+http://iptvfree1.com:7899/AsE6e1LS3i/g4SGLeq5F7change/114178
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="SPECIAL",MY: ASTRO ASSP3 HD
+http://36.37.252.114:888/Apple/OneTV-044/playlist.m3u8
+http://iptvtree.net:8080/14215/0ecdeba8/196477
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="SPECIAL",MY: ASTRO ASSP2 HD
+http://iptvtree.net:8080/STBEMU/a06e8f29ad/246507
+http://iptvtree.net:8080/14215/0ecdeba8/196476
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="SPECIAL",MY: ASTRO ASSP HD
+http://36.37.252.114:888/Apple/OneTV-043/playlist.m3u8
+http://iptvtree.net:8080/14215/0ecdeba8/146068
+
+
+#EXTINF:-1 tvg-logo="https://www.yellmagazine.com/wp-content/uploads/2016/06/ufc-logo.jpg" group-title="SPECIAL",UFC 1
+http://live-ng-01.more.tv/hls/UFC/index_0.m3u8
+#EXTINF:-1 tvg-logo="https://www.yellmagazine.com/wp-content/uploads/2016/06/ufc-logo.jpg" group-title="SPECIAL",UFC 2
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.yellmagazine.com/wp-content/uploads/2016/06/ufc-logo.jpg" group-title="SPECIAL",UFC 3
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-eV0eGvfz9RY/XrqC_VebwfI/AAAAAAAAC2I/JhiVZpJqqOQXRYRX2qdF13iqwYxWNxcDwCLcBGAsYHQ/s640/Sky%2BSports%2BHD%2BPremier%2BLeague.jpg" group-title="SPECIAL",Sewaktu- Waktu Channel OFF
+
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-eV0eGvfz9RY/XrqC_VebwfI/AAAAAAAAC2I/JhiVZpJqqOQXRYRX2qdF13iqwYxWNxcDwCLcBGAsYHQ/s640/Sky%2BSports%2BHD%2BPremier%2BLeague.jpg" group-title="SPECIAL",UK: SKYSPORT PREMIER LEAGUE HD
+http://iptvfree1.com:7899/cynthialucatellithomas1/123456/54399
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-eV0eGvfz9RY/XrqC_VebwfI/AAAAAAAAC2I/JhiVZpJqqOQXRYRX2qdF13iqwYxWNxcDwCLcBGAsYHQ/s640/Sky%2BSports%2BHD%2BPremier%2BLeague.jpg" group-title="SPECIAL",UK: SKYSPORT PREMIER LEAGUE HD BACK UP
+http://iptvfree1.com:7899/cynthialucatellithomas1/123456/18
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-vL5fvnCJdDA/XrqC_CutwcI/AAAAAAAAC2E/aLM5ZItkeA0CD5NyIVPb5QA7_OIKsjR4gCLcBGAsYHQ/w1200-h630-p-k-no-nu/Sky%2BSports%2BMain%2BEvents.jpg" group-title="SPECIAL",UK: SKYSPORT MAIN EVENT HD
+http://iptvfree1.com:7899/AsE6e1LS3i/g4SGLeq5F7change/26
+http://iptvfree1.com:7899/cynthialucatellithomas1/123456/2463
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-vL5fvnCJdDA/XrqC_CutwcI/AAAAAAAAC2E/aLM5ZItkeA0CD5NyIVPb5QA7_OIKsjR4gCLcBGAsYHQ/w1200-h630-p-k-no-nu/Sky%2BSports%2BMain%2BEvents.jpg" group-title="SPECIAL",UK: SKYSPORT MAIN EVENT HD BACK UP
+http://iptvfree1.com:7899/cynthialucatellithomas1/123456/8612
+
+#EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/442-4420273_nbcsn-logo-png-transparent-png.png" group-title="SPECIAL",NBSCN
+http://iptvfree1.com:7899/AsE6e1LS3i/g4SGLeq5F7change/98
+http://iptvfree1.com:7899/v59352/123456/26820
+http://imnotdead.live:8080/XjTRZnx2Pg/fBDqAeSAAZ/65035
+
+#EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/442-4420273_nbcsn-logo-png-transparent-png.png" group-title="SPECIAL",NBSCN Backup 1
+http://saradenton.azureedge.net/hls/nbcsn/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/442-4420273_nbcsn-logo-png-transparent-png.png" group-title="SPECIAL",NBSCN Backup 2
+http://f.ok2.se:8000/zZz8xQWLJx/prXswZReNB/170
+http://lampfal.ddns.net:8080/live/Abdul/Ndiaye/60058.m3u8
+
+#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a95.png" group-title="SPECIAL",Premier Sports 1 
+http://iptvfree1.com:7899/v59352/123456/6971
+http://dx4.gcdn.co/UK369/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a1442.png" group-title="SPECIAL",Premier Sports 2
+http://dx4.gcdn.co/UK370/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/dvs7H3Dnip3IyRopbaO_xZsA51RCT-qrKIC3wvXUgarM7D3ch0ulXvpWZcurthYJ6w" group-title="SPECIAL",BOX Nation
+http://iptvfree1.com:7899/v59352/123456/9
+http://imnotdead.live:8080/XjTRZnx2Pg/fBDqAeSAAZ/7764
+
+#EXTINF:-1 tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-premier-league-live.png" group-title="SPECIAL",Supersport Premier League
+http://p4.giffy.be:8080/awAcw944/gqL1qlz54b/68783
+http://iptvfree1.com:7899/AsE6e1LS3i/g4SGLeq5F7change/114178
+http://digitalxpress.gcdn.co/live1/skypremierleague/tracks-v1a1/mono.m3u8
+http://iptvfree1.com:7899/v59352/123456/405
+http://imnotdead.live:8080/XjTRZnx2Pg/fBDqAeSAAZ/73398
+
+#EXTINF:-1 tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-premier-league-live.png" group-title="SPECIAL",Supersport Premier League 2
+http://p4.giffy.be:8080/a7k4NJAK/xTQLiFf698/68781
+
+#EXTINF:-1 tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-premier-league-live.png" group-title="SPECIAL",Supersport Premier League 3
+http://iptvworld.nl:2095/8jS4r9MBuN/O27blhcixL/39408
+
+
+
+
+
+##################SPORT++ ZI#########################
+#EXTINF:-1 tvg-logo="https://pngimg.com/uploads/attention/attention_PNG61.png" group-title="SPORT++ ZI",KLIK DI SINI DULU
+https://www.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ya-webdesign.com/images/bein-sports-png-5.png" group-title="SPORT++ ZI",beIN Sports 1 EPL
+https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/6/6591.1491350441.png" group-title="SPORT++ ZI",beIN Sports 2 EPL
+https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="FOXSportsHD.MACAN" tvg-name="FOXSportsHD.MACAN" group-title="SPORT++ ZI" tvg-logo="https://cdn.macan.tv/img/fox_sports_1.png", FOX Sport 1
+http://harber.xyz/stream/usee-foxsport1-milik-harberkuy.m3u8
+
+#EXTINF:-1 tvg-id="FOXSports2.MACAN" tvg-name="FOXSports2.MACAN" group-title="SPORT++ ZI" tvg-logo="https://cdn.macan.tv/img/fox_sports_2.jpg", FOX Sport 2
+http://harber.xyz/stream/usee-foxsport2-milik-harberkuy.m3u8
+
+#EXTINF:-1 tvg-id="FOXSports3.MACAN" tvg-name="FOXSports3.MACAN" group-title="SPORT++ ZI" tvg-logo="https://cdn.macan.tv/img/fox_sport_3.jpeg", FOX Sport 3
+http://harber.xyz/stream/usee-foxsport3-milik-harberkuy.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.pngkit.com/png/detail/598-5982970_bt-sport-1-1080p-sky-and-bt-sports.png" group-title="SPORT++ ZI",BT Sport 1
+https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.pngfind.com/pngs/m/164-1646718_bt-sports-2-logo-hd-png-download.png" group-title="SPORT++ ZI",BT Sport 2
+https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/sqxxtw1470409111.png" group-title="SPORT++ ZI",Sport TV 1
+https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/vpwuyu1470409212.png" group-title="SPORT++ ZI",Sport TV 2
+https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/wwsuqv1470409839.png" group-title="SPORT++ ZI",Sport TV 3
+https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/vuytwx1470409983.png" group-title="SPORT++ ZI",Sport TV 4
+https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/logo/uvpqvr1470410094.png" group-title="SPORT++ ZI",Sport TV 5
+https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" group-title="SPORT++ ZI",Setanta Sport 
+http://92.43.140.204:80/s81/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" group-title="SPORT++ ZI",Setanta Sport Back Up 1
+http://ott-cdn.ucom.am/s82/04.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" group-title="SPORT++ ZI",Setanta Sport Back Up 2
+http://92.43.140.249/s82/04.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" group-title="SPORT++ ZI",Setanta Sport Back Up 3
+http://zigfreed.ru/k1T/296.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" group-title="SPORT++ ZI",Setanta Sport Back Up 4
+https://95-213-224-183.livesports24.online/rusetantaeurasia.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" group-title="SPORT++ ZI",Setanta Sport 1
+http://92.43.140.200/s81/04.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Setanta-logo.jpg" group-title="SPORT++ ZI",Setanta Sport 2
+http://92.43.140.200/s82/04.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORT++ ZI" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2016/05/TVS.png", TVS Boxing
+https://nrpus.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORT++ ZI" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f6/Viasat_Sport.png", Viasat Sport 1
+http://persik.tv/stream/3602/287583/10249.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORT++ ZI" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f6/Viasat_Sport.png", Viasat Sport 2
+http://109.239.208.82:80/viasatshd/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORT++ ZI" tvg-logo="https://www.micromania.fr/on/demandware.static/-/Sites-masterCatalog_Micromania/default/dwcb66710d/images/logos/UFC-Logo.jpg", UFC TB
+http://live-ng-01.more.tv/hls/UFC/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="FOXSportsHD.MACAN" group-title="SPORT++ ZI" tvg-logo="https://ntvplus.tv/files/image/13/67/48/oto.png", Конный Мир
+http://cdn-01.bonus-tv.ru:80/konnyimir/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-id="" tvg-name="FOXSports2.MACAN" group-title="SPORT++ ZI" tvg-logo="https://www.euroleague.net/rs/5sjnkqsd3ri43omw/a180d37b-8f1c-4d7f-869b-955efab3716f/19e/filename/sportsru.jpg", RU Sport
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="FOXSports3.MACAN" group-title="SPORT++ ZI" tvg-logo="https://tv.akado.ru/upload/resize_cache/akado_images_bitrix/9df/160_160_1/5dbbeace6c33c.png",  Матч
+http://217.25.226.215:4022/udp/235.1.10.3:10000
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORT++ ZI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/MatchTV_Logo.svg/1200px-MatchTV_Logo.svg.png", Match TV 01
+http://188.35.9.11:2019
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORT++ ZI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/MatchTV_Logo.svg/1200px-MatchTV_Logo.svg.png", MATCH CTPAHA
+http://188.35.9.5:10007/stolen/124n/parasite.install
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORT++ ZI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/MatchTV_Logo.svg/1200px-MatchTV_Logo.svg.png", Match TV 01
+http://mfe.cliptv.az/dash/Match_Football_1_HD.ism/playlist.mpd?checkedby
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORT++ ZI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/MatchTV_Logo.svg/1200px-MatchTV_Logo.svg.png", Match TV 02
+http://mfe.cliptv.az/dash/Match_Football_2_HD.ism/playlist.mpd?checkedby
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORT++ ZI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/MatchTV_Logo.svg/1200px-MatchTV_Logo.svg.png", Match TV 03
+http://mfe.cliptv.az/dash/Match_Football_3_HD.ism/playlist.mpd?checkedby
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORT++ ZI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/MatchTV_Logo.svg/1200px-MatchTV_Logo.svg.png", Match TV 04
+http://92.43.140.200/s41/04.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="SPORT++ ZI" tvg-logo="https://rusyf.ru/uploads/editor/pictures/12721/content_60e2069cd82cbfbf53733efff08d2173.png", Матч! Наш Спорт
+http://188.35.9.5:10007/stolen/124n/parasite.install
+
+#EXTINF:-1 tvg-id="" tvg-name="FOXSportsHD.MACAN" group-title="SPORT++ ZI" tvg-logo="https://ntvplus.tv/files/image/02/31/08/sd0.png", МАТЧ! ПРЕМЬЕР
+http://dmitry-tv.my1.ru/his/01/CH_MATCHPREMIER.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="FOXSportsHD.MACAN" group-title="SPORT++ ZI" tvg-logo="https://i.goalzz.com/?i=katkotati%2Flogo_chaine%2Fturkmenistan+hd.jpg", Turkmenistan Sport
+http://217.174.225.146/hls/ch004_720/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
+
+#EXTINF:-1 tvg-logo="https://apps.beinsports.com/dev/au/images/XTRA.png" group-title="SPORT++ ZI",beIN Sports Extra
+https://bein-xtra-roku.amagi.tv/ingest/playlist404p.m3u8
+
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/618/97/png-clipart-television-channel-eurosport-2-eurosport-1-eurosport-hd-television-blue.png" group-title="SPORT++ ZI",Eurosport 1
+https://www.livedoomovies.com/02_EUROHD1_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.broadbandtvnews.com/wp-content/uploads/2015/11/Eurosport-2-HD.png" group-title="SPORT++ ZI",Eurosport 2
+https://www.livedoomovies.com/02_EUROHD2_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/31682adb-c504-409d-b2ea-d43245491a9a_320.png" group-title="SPORT++ ZI",True 1 HD
+https://www.livedoomovies.com/02_2sporthd1_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/07/31/afc53720-a686-4376-8ab3-a910f1821c0e_320.png" group-title="SPORT++ ZI",True 2 HD
+https://www.livedoomovies.com/02_2sporthd2_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/2dc8f250-f973-11e9-86dd-238985cbbd60_320.png" group-title="SPORT++ ZI",True 3 HD
+https://www.livedoomovies.com/02_2sporthd3_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/3f554960-f973-11e9-91cd-2f79be09d2b3_320.png" group-title="SPORT++ ZI",True 4 HD
+https://www.livedoomovies.com/02_sport6_480p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD5.png" group-title="SPORT++ ZI",True 5 HD
+https://www.livedoomovies.com/02_sport7_480p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD1.png" group-title="SPORT++ ZI",True Premier 1 HD
+https://www.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD2.png" group-title="SPORT++ ZI",True Premier 2 HD
+https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD3.png" group-title="SPORT++ ZI",True Premier 3 HD
+https://www.livedoomovies.com/02_PremierHD3_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD4.png" group-title="SPORT++ ZI",True Premier 4 HD
+https://www.livedoomovies.com/02_PremierHD4_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD5.png" group-title="SPORT++ ZI",True Premier 5 HD
+https://www.livedoomovies.com/02_PremierHD5_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.micromania.fr/on/demandware.static/-/Sites-masterCatalog_Micromania/default/dwcb66710d/images/logos/UFC-Logo.jpg" group-title="SPORT++ ZI",UFC TV
+https://a787201987-s37630.cdn.ngenix.net/hls/CH_UFCHD_HLS/bw5000000/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/WWE_Network_logo.svg" group-title="SPORT++ ZI",WWE TV
+http://cdnak19.cast4u.info/channels/4/10804.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fightsports.tv/wp-content/uploads/2017/04/FightSportsLogo2x.png" group-title="SPORT++ ZI",Fight Sport
+http://cdnak19.cast4u.info/channels/4/10804.m3u8
+
+#EXTINF:-1 tvg-logo="https://football-tribe.com/indonesia/wp-content/uploads/sites/10/2019/01/TVRI-Sport-HD.png" group-title="SPORT++ ZI",TVRI Sport
+http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i3.wp.com/www.digitbin.com/content/uploads/Live-TV-Sports-for-Android-600x400.png" group-title="SPORT++ ZI",LIVE SPORT 1
+https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i3.wp.com/www.digitbin.com/content/uploads/Live-TV-Sports-for-Android-600x400.png" group-title="SPORT++ ZI",LIVE SPORT 2
+https://www.livedoomovies.com/02_PremierHD2_480p/chunklist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i3.wp.com/www.digitbin.com/content/uploads/Live-TV-Sports-for-Android-600x400.png" group-title="SPORT++ ZI",LIVE SPORT 3
+https://www.livedoomovies.com/02_2sporthd3_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i3.wp.com/www.digitbin.com/content/uploads/Live-TV-Sports-for-Android-600x400.png" group-title="SPORT++ ZI",LIVE SPORT 4
+https://akamai2-mx.cdn.booyah.live/hls/210154/36518896.m3u8
+
+#EXTINF:-1 tvg-logo="https://i3.wp.com/www.digitbin.com/content/uploads/Live-TV-Sports-for-Android-600x400.png" group-title="SPORT++ ZI",LIVE SPORT 5
+https://akamai2-mx.cdn.booyah.live/hls/210154/36518896.m3u8
+
+#EXTINF:-1 tvg-logo="https://arctic-club.com/upload/matchtv.png" group-title="SPORT++ ZI",RUSIA SPORT 1
+https://95-213-224-179.livesports24.online/khlhdru.m3u8
+
+#EXTINF:-1 tvg-logo="https://arctic-club.com/upload/matchtv.png" group-title="SPORT++ ZI",RUSIA SPORT 2
+https://95-213-224-179.livesports24.online/mpremierrus.m3u8
+
+#EXTINF:-1 tvg-logo="https://arctic-club.com/upload/matchtv.png" group-title="SPORT++ ZI",RUSIA SPORT 3
+https://95-213-224-179.livesports24.online/ntvmatchfoot1.m3u8
+
+
+
+
+#######################################YOUTUBE LIVE ZI#################################
+#EXTINF:-1 tvg-logo="https://static.apparata.nl/images/2017/YouTube-Livestream.jpg" group-title="YOUTUBE LIVE ZI",Hanya ON Tergantung Admin
+http://bukansiapa.xyz/bukansiapa-yt/youtube.m3u8?search=WFtrEySMZkg
+https://guebisa.000webhostapp.com/yt.m3u8?search=AiD0MZXASUY
+
+#EXTINF:-1 tvg-logo="https://static.apparata.nl/images/2017/YouTube-Livestream.jpg" group-title="YOUTUBE LIVE ZI",Sholawat Merdu (Live)
+https://guebisa.000webhostapp.com/yt.m3u8?search=AiD0MZXASUY
+
+#EXTINF:-1 tvg-logo="https://static.apparata.nl/images/2017/YouTube-Livestream.jpg" group-title="YOUTUBE LIVE ZI",Hindi Song 2020 (Live)
+https://guebisa.000webhostapp.com/yt.m3u8?search=hSBhtX14skQ
+
+#EXTINF:-1 tvg-logo="https://static.apparata.nl/images/2017/YouTube-Livestream.jpg" group-title="YOUTUBE LIVE ZI",Talking Tom (Live)
+https://guebisa.000webhostapp.com/yt.m3u8?search=keIt6LJEC44
+
+#EXTINF:-1 tvg-logo="https://static.apparata.nl/images/2017/YouTube-Livestream.jpg" group-title="YOUTUBE LIVE ZI",Spongebob (Live)
+https://guebisa.000webhostapp.com/yt.m3u8?search=XFXwguzvsnk
+
+#EXTINF:-1 tvg-logo="https://static.apparata.nl/images/2017/YouTube-Livestream.jpg" group-title="YOUTUBE LIVE ZI",Paw Patroll (Live)
+https://guebisa.000webhostapp.com/yt.m3u8?search=3bfRXvOWWrA
+
+#EXTINF:-1 tvg-logo="https://static.apparata.nl/images/2017/YouTube-Livestream.jpg" group-title="YOUTUBE LIVE ZI",beINSport (Live)
+https://guebisa.000webhostapp.com/yt.m3u8?search=6TY-6GSca1A
+
+#EXTINF:-1 tvg-logo="https://static.apparata.nl/images/2017/YouTube-Livestream.jpg" group-title="YOUTUBE LIVE ZI",ABC Song (Live)
+https://guebisa.000webhostapp.com/yt.m3u8?search=7hRv7Q5jVQM
+
+
+#######################################LIST#################################
+http://zichannels.my.id/zich/zitv.php
